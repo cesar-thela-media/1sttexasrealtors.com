@@ -1,0 +1,271 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e36]:
+      - paragraph [ref=e37]: Clear Lake TX Homes for Sale
+      - heading "Find your home in Clear Lake." [level=1] [ref=e38]:
+        - text: Find your home
+        - text: in Clear Lake.
+      - paragraph [ref=e39]: Browse current listings in Clear Lake, Seabrook, El Lago, Nassau Bay, Taylor Lake Village, and surrounding communities.
+      - generic [ref=e40]:
+        - img [ref=e42]
+        - paragraph [ref=e45]: Search by city, zip, or neighborhood...
+        - link "Search" [ref=e46] [cursor=pointer]:
+          - /url: /contact
+          - text: Search
+          - img [ref=e47]
+      - generic [ref=e49]:
+        - generic [ref=e50] [cursor=pointer]: All Listings
+        - generic [ref=e51] [cursor=pointer]: Under $400K
+        - generic [ref=e52] [cursor=pointer]: $400K–$600K
+        - generic [ref=e53] [cursor=pointer]: Waterfront
+        - generic [ref=e54] [cursor=pointer]: New Listings
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - generic [ref=e58]: 180+
+        - generic [ref=e59]: Active listings in the area
+      - generic [ref=e60]:
+        - generic [ref=e61]: $320K
+        - generic [ref=e62]: Median home price
+      - generic [ref=e63]:
+        - generic [ref=e64]: 28 days
+        - generic [ref=e65]: Average days on market
+    - generic [ref=e67]:
+      - generic [ref=e69]:
+        - paragraph [ref=e70]: Editor's Pick
+        - heading "Featured Listing" [level=2] [ref=e71]
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - img "2214 Lakeside Terrace Dr" [ref=e74]
+          - generic [ref=e75]: Just Listed
+        - generic [ref=e76]:
+          - paragraph [ref=e77]: $389,000
+          - heading "2214 Lakeside Terrace Dr" [level=3] [ref=e78]
+          - paragraph [ref=e79]: Clear Lake City, TX 77062
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - paragraph [ref=e82]: "4"
+              - paragraph [ref=e83]: Beds
+            - generic [ref=e84]:
+              - paragraph [ref=e85]: "3"
+              - paragraph [ref=e86]: Baths
+            - generic [ref=e87]:
+              - paragraph [ref=e88]: 2,480
+              - paragraph [ref=e89]: Sq Ft
+          - link "Schedule a Showing" [ref=e90] [cursor=pointer]:
+            - /url: /contact
+            - text: Schedule a Showing
+            - img [ref=e91]
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - generic [ref=e96]:
+          - paragraph [ref=e97]: More Homes
+          - heading "Current Listings" [level=2] [ref=e98]
+        - link "See All Listings" [ref=e99] [cursor=pointer]:
+          - /url: /contact
+          - text: See All Listings
+          - img [ref=e100]
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - img "903 Nassau Bay Blvd" [ref=e105]
+            - generic [ref=e106]: Waterfront
+          - generic [ref=e107]:
+            - paragraph [ref=e108]: $524,000
+            - paragraph [ref=e109]: 903 Nassau Bay Blvd
+            - paragraph [ref=e110]: Nassau Bay, TX 77058
+            - generic [ref=e111]:
+              - generic [ref=e112]: 4 bd
+              - generic [ref=e113]: "|"
+              - generic [ref=e114]: 2.5 ba
+              - generic [ref=e115]: "|"
+              - generic [ref=e116]: 3,100 sqft
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - img "1804 El Lago Ct" [ref=e119]
+            - generic [ref=e120]: Corner Lot
+          - generic [ref=e121]:
+            - paragraph [ref=e122]: $445,000
+            - paragraph [ref=e123]: 1804 El Lago Ct
+            - paragraph [ref=e124]: El Lago, TX 77586
+            - generic [ref=e125]:
+              - generic [ref=e126]: 3 bd
+              - generic [ref=e127]: "|"
+              - generic [ref=e128]: 2 ba
+              - generic [ref=e129]: "|"
+              - generic [ref=e130]: 2,200 sqft
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - img "512 Seabrook Landing" [ref=e133]
+            - generic [ref=e134]: Pool
+          - generic [ref=e135]:
+            - paragraph [ref=e136]: $618,000
+            - paragraph [ref=e137]: 512 Seabrook Landing
+            - paragraph [ref=e138]: Seabrook, TX 77586
+            - generic [ref=e139]:
+              - generic [ref=e140]: 5 bd
+              - generic [ref=e141]: "|"
+              - generic [ref=e142]: 4 ba
+              - generic [ref=e143]: "|"
+              - generic [ref=e144]: 3,850 sqft
+        - generic [ref=e145]:
+          - generic [ref=e146]:
+            - img "4420 Taylor Lake Cir" [ref=e147]
+            - generic [ref=e148]: Updated Kitchen
+          - generic [ref=e149]:
+            - paragraph [ref=e150]: $375,500
+            - paragraph [ref=e151]: 4420 Taylor Lake Cir
+            - paragraph [ref=e152]: Taylor Lake Village, TX 77586
+            - generic [ref=e153]:
+              - generic [ref=e154]: 3 bd
+              - generic [ref=e155]: "|"
+              - generic [ref=e156]: 2 ba
+              - generic [ref=e157]: "|"
+              - generic [ref=e158]: 2,050 sqft
+        - generic [ref=e159]:
+          - generic [ref=e160]:
+            - img "1118 Bay Oaks Dr" [ref=e161]
+            - generic [ref=e162]: Great Value
+          - generic [ref=e163]:
+            - paragraph [ref=e164]: $299,000
+            - paragraph [ref=e165]: 1118 Bay Oaks Dr
+            - paragraph [ref=e166]: Clear Lake City, TX 77062
+            - generic [ref=e167]:
+              - generic [ref=e168]: 3 bd
+              - generic [ref=e169]: "|"
+              - generic [ref=e170]: 2 ba
+              - generic [ref=e171]: "|"
+              - generic [ref=e172]: 1,780 sqft
+      - generic [ref=e173]:
+        - paragraph [ref=e174]: Listings updated daily from the Houston MLS
+        - link "Get Full Listing Access" [ref=e175] [cursor=pointer]:
+          - /url: /contact
+          - text: Get Full Listing Access
+          - img [ref=e176]
+    - generic [ref=e179]:
+      - img "Clear Lake waterfront" [ref=e181]
+      - generic [ref=e182]:
+        - paragraph [ref=e183]: Why Clear Lake
+        - heading "A real community, not just a zip code." [level=2] [ref=e184]:
+          - text: A real community,
+          - text: not just a zip code.
+        - paragraph [ref=e185]: Clear Lake sits at the intersection of space exploration, coastal living, and authentic Texas community. NASA's Johnson Space Center anchors the economy, while the shores of Galveston Bay give it a character unlike anywhere else in Houston.
+        - paragraph [ref=e186]: Homes here hold their value. The community invests in itself. And the people who move here tend to stay for decades.
+        - link "Explore All Communities" [ref=e187] [cursor=pointer]:
+          - /url: /communities
+          - text: Explore All Communities
+          - img [ref=e188]
+    - generic [ref=e191]:
+      - generic [ref=e192]:
+        - img [ref=e194]
+        - heading "Meet the Team" [level=3] [ref=e198]
+        - paragraph [ref=e199]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e200] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e201]
+      - generic [ref=e203]:
+        - img [ref=e205]
+        - heading "Search Homes" [level=3] [ref=e208]
+        - paragraph [ref=e209]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e210] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e211]
+      - generic [ref=e213]:
+        - img [ref=e215]
+        - heading "Contact Us" [level=3] [ref=e217]
+        - paragraph [ref=e218]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e219] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e220]
+    - generic [ref=e223]:
+      - generic [ref=e224]:
+        - link "1ST Texas Realtors" [ref=e225] [cursor=pointer]:
+          - /url: /
+          - img [ref=e226]
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - text: "1"
+              - superscript [ref=e230]: ST
+              - text: Texas
+            - generic [ref=e231]: Realtors
+        - navigation [ref=e232]:
+          - link "Home" [ref=e233] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e234] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e235] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e236] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e237] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e238] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e239] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e240] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e241]:
+          - link "Facebook" [ref=e242] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e243]
+          - link "Instagram" [ref=e245] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e246]
+          - link "Email" [ref=e250] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e251]
+      - generic [ref=e254]:
+        - link "TREC Information About Brokerage Services" [ref=e255] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e256] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e257] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e258] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e260]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e261]

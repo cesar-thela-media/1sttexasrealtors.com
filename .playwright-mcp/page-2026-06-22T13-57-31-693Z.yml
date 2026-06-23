@@ -1,0 +1,215 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: "#about"
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: "#buying"
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: "#selling"
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: "#communities"
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: "#reviews"
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: "#resources"
+          - text: Resources
+          - img [ref=e29]
+      - link "Contact a Realtor" [ref=e31] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e32]:
+      - img "Beautiful suburban home in Clear Lake" [ref=e33]
+      - generic [ref=e36]:
+        - heading "Family Owned Since 2004" [level=1] [ref=e37]:
+          - text: Family Owned
+          - text: Since 2004
+        - paragraph [ref=e38]:
+          - text: Your neighbors. Your Realtors.
+          - text: Proudly serving Clear Lake
+          - text: and the communities we call home.
+        - link "Contact a Realtor" [ref=e39] [cursor=pointer]:
+          - /url: "#contact"
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: 100+
+        - generic [ref=e44]: Years Combined Experience
+      - generic [ref=e45]:
+        - generic [ref=e46]: "2004"
+        - generic [ref=e47]: Family-Owned Since 2004
+      - generic [ref=e48]:
+        - generic [ref=e49]: 3%
+        - generic [ref=e50]: Top 3% Realtors Every Year Since 2010
+    - generic [ref=e52]:
+      - generic [ref=e53]:
+        - img [ref=e56]
+        - heading "Contact a Realtor" [level=3] [ref=e59]
+        - paragraph [ref=e60]: We're here to help with your real estate questions.
+        - link "Get in Touch" [ref=e61] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Get in Touch
+          - img [ref=e62]
+      - generic [ref=e64]:
+        - img [ref=e67]
+        - heading "Buying a Home" [level=3] [ref=e71]
+        - paragraph [ref=e72]: Find the right home in the right neighborhood for you.
+        - link "Start Your Search" [ref=e73] [cursor=pointer]:
+          - /url: "#buying"
+          - text: Start Your Search
+          - img [ref=e74]
+      - generic [ref=e76]:
+        - img [ref=e79]
+        - heading "Selling a Home" [level=3] [ref=e84]
+        - paragraph [ref=e85]: Get a smart plan and local expertise to sell with confidence.
+        - link "Get Your Home Value" [ref=e86] [cursor=pointer]:
+          - /url: "#selling"
+          - text: Get Your Home Value
+          - img [ref=e87]
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - heading "Our Backyard. Our Expertise." [level=2] [ref=e92]:
+          - text: Our Backyard.
+          - text: Our Expertise.
+        - paragraph [ref=e93]: We live here, we work here, and we know this area like the back of our hand.
+      - img [ref=e96]:
+        - generic [ref=e145]: NASSAU BAY
+        - generic [ref=e149]: CLEAR LAKE CITY
+        - generic [ref=e153]: SEABROOK
+        - generic [ref=e157]: EL LAGO
+        - generic [ref=e161]: TAYLOR LAKE VILLAGE
+        - generic [ref=e165]: KEMAH
+        - generic [ref=e167]: Great parks & trails
+        - generic [ref=e169]: Waterfront dining
+        - generic [ref=e171]: Small town feel on the water
+    - generic [ref=e177]:
+      - generic [ref=e180]:
+        - img "Local realtor couple" [ref=e182]
+        - paragraph [ref=e183]: Our photo goes here!
+      - generic [ref=e185]:
+        - heading "We're a local husband-and-wife team, and we've never left." [level=2] [ref=e186]
+        - generic [ref=e187]:
+          - paragraph [ref=e188]: We grew up on the Clear Lake peninsula and chose to raise our family here. We love this community and are passionate about helping our neighbors make smart moves.
+          - paragraph [ref=e189]: Whether you're buying, selling, or just exploring your options, we're here for you—no pressure, just honest guidance.
+        - paragraph [ref=e190]: Let's make your next move a great one.
+    - generic [ref=e193]:
+      - generic [ref=e194]: “
+      - generic [ref=e195]:
+        - paragraph [ref=e196]: Simone and David are a fantastic team to work with. They know the area, they're responsive, and they truly care. We felt supported every step of the way!
+        - paragraph [ref=e197]: — Brian & Michelle R., Clear Lake
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - img [ref=e202]
+        - generic [ref=e204]:
+          - paragraph [ref=e205]: TEXAS MONTHLY
+          - paragraph [ref=e206]: 5-STAR
+          - paragraph [ref=e207]: REAL ESTATE AGENT
+      - generic [ref=e208]:
+        - img [ref=e210]
+        - generic [ref=e213]:
+          - paragraph [ref=e214]: LOCAL
+          - paragraph [ref=e215]: REALTOR®
+          - paragraph [ref=e216]: ASSOCIATION
+      - generic [ref=e217]:
+        - img [ref=e219]:
+          - generic [ref=e221]: MLS
+        - generic [ref=e222]:
+          - paragraph [ref=e223]: MULTIPLE LISTING
+          - paragraph [ref=e224]: SERVICE
+      - generic [ref=e225]:
+        - img [ref=e227]
+        - generic [ref=e230]:
+          - paragraph [ref=e231]: EQUAL HOUSING
+          - paragraph [ref=e232]: OPPORTUNITY
+    - generic [ref=e234]:
+      - generic [ref=e235]:
+        - img [ref=e237]
+        - heading "Register" [level=3] [ref=e241]
+        - paragraph [ref=e242]: Create an account to save favorites and set up alerts.
+        - link "Get Started" [ref=e243] [cursor=pointer]:
+          - /url: "#register"
+          - text: Get Started
+          - img [ref=e244]
+      - generic [ref=e246]:
+        - img [ref=e248]
+        - heading "Search Homes" [level=3] [ref=e251]
+        - paragraph [ref=e252]: Explore homes for sale in Clear Lake and nearby.
+        - link "Search Now" [ref=e253] [cursor=pointer]:
+          - /url: "#search"
+          - text: Search Now
+          - img [ref=e254]
+      - generic [ref=e256]:
+        - img [ref=e258]
+        - heading "Contact Us" [level=3] [ref=e260]
+        - paragraph [ref=e261]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e262] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Get In Touch
+          - img [ref=e263]
+    - generic [ref=e266]:
+      - generic [ref=e267]:
+        - link "1ST Texas Realtors" [ref=e268] [cursor=pointer]:
+          - /url: /
+          - img [ref=e269]
+          - generic [ref=e271]:
+            - generic [ref=e272]:
+              - text: "1"
+              - superscript [ref=e273]: ST
+              - text: Texas
+            - generic [ref=e274]: Realtors
+        - navigation [ref=e275]:
+          - link "Home" [ref=e276] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e277] [cursor=pointer]:
+            - /url: "#about"
+          - link "Buying" [ref=e278] [cursor=pointer]:
+            - /url: "#buying"
+          - link "Selling" [ref=e279] [cursor=pointer]:
+            - /url: "#selling"
+          - link "Communities" [ref=e280] [cursor=pointer]:
+            - /url: "#communities"
+          - link "Reviews" [ref=e281] [cursor=pointer]:
+            - /url: "#reviews"
+          - link "Resources" [ref=e282] [cursor=pointer]:
+            - /url: "#resources"
+          - link "Contact" [ref=e283] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e284]:
+          - link "Facebook" [ref=e285] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e286]
+          - link "Instagram" [ref=e288] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e289]
+          - link "Email" [ref=e293] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e294]
+      - generic [ref=e297]:
+        - link "TREC Information About Brokerage Services" [ref=e298] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e299] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e300] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e301] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e303]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e304]

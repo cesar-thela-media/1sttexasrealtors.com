@@ -1,0 +1,187 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - img "Before staging" [ref=e38]
+          - generic [ref=e40]: Before
+        - generic [ref=e41]:
+          - img "After staging" [ref=e42]
+          - generic [ref=e44]: After Staging
+      - generic:
+        - generic:
+          - paragraph: Home Staging
+          - heading "Buyers decide in seconds. Make them count." [level=1]:
+            - text: Buyers decide in seconds.
+            - text: Make them count.
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - paragraph [ref=e49]: 73%
+        - paragraph [ref=e50]: of staged homes sell faster
+      - generic [ref=e51]:
+        - paragraph [ref=e52]: 6–10%
+        - paragraph [ref=e53]: average price increase
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: 11 days
+        - paragraph [ref=e56]: avg. time on market vs. 90+ for unstaged
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: Why Ours Is Different
+        - heading "A trained eye, not a checklist." [level=2] [ref=e61]:
+          - text: A trained eye,
+          - text: not a checklist.
+        - paragraph [ref=e62]: Sandra spent seven years as a licensed interior designer before co-founding 1st Texas Realtors. Her staging consultation isn't advice from a list — it's a trained design eye applied to your specific home, your target buyer, and the current market.
+        - paragraph [ref=e63]: Most Realtors tell you to declutter and light a candle. Sandra will tell you exactly which wall to repaint, which furniture to move, and which $40 accessory will make your living room photograph twice as large.
+      - img "Staged living room" [ref=e65]
+    - generic [ref=e67]:
+      - paragraph [ref=e68]: The Results
+      - heading "Rooms that sell themselves." [level=2] [ref=e69]
+      - generic [ref=e70]:
+        - img "Staged room" [ref=e72]
+        - img "Staged room" [ref=e74]
+        - img "Staged room" [ref=e76]
+        - img "Staged room" [ref=e78]
+        - img "Staged room" [ref=e80]
+    - generic [ref=e82]:
+      - paragraph [ref=e83]: The Process
+      - heading "How we stage your home." [level=2] [ref=e84]
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - paragraph [ref=e87]: "01"
+          - heading "Consultation" [level=3] [ref=e88]
+          - paragraph [ref=e89]: Sandra walks through every room and gives specific, actionable advice.
+        - generic [ref=e90]:
+          - paragraph [ref=e91]: "02"
+          - heading "Declutter & Depersonalize" [level=3] [ref=e92]
+          - paragraph [ref=e93]: We help you see your home through a buyer's eyes — ruthlessly.
+        - generic [ref=e94]:
+          - paragraph [ref=e95]: "03"
+          - heading "Strategic Styling" [level=3] [ref=e96]
+          - paragraph [ref=e97]: Furniture, lighting, accents — optimized for photos and showings.
+        - generic [ref=e98]:
+          - paragraph [ref=e99]: "04"
+          - heading "Professional Photos" [level=3] [ref=e100]
+          - paragraph [ref=e101]: Great staging without great photos is a wasted opportunity.
+    - generic [ref=e103]:
+      - paragraph [ref=e104]: Good News
+      - heading "Included with every listing. No extra charge." [level=3] [ref=e105]
+      - paragraph [ref=e106]: When you sell through 1st Texas Realtors, Sandra's full staging consultation is part of the package.
+      - link "See Full Seller Services" [ref=e107] [cursor=pointer]:
+        - /url: /seller-services
+        - text: See Full Seller Services
+        - img [ref=e108]
+    - generic [ref=e111]:
+      - generic [ref=e112]:
+        - img [ref=e114]
+        - heading "Meet the Team" [level=3] [ref=e118]
+        - paragraph [ref=e119]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e120] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e121]
+      - generic [ref=e123]:
+        - img [ref=e125]
+        - heading "Search Homes" [level=3] [ref=e128]
+        - paragraph [ref=e129]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e130] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e131]
+      - generic [ref=e133]:
+        - img [ref=e135]
+        - heading "Contact Us" [level=3] [ref=e137]
+        - paragraph [ref=e138]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e139] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e140]
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - link "1ST Texas Realtors" [ref=e145] [cursor=pointer]:
+          - /url: /
+          - img [ref=e146]
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - text: "1"
+              - superscript [ref=e150]: ST
+              - text: Texas
+            - generic [ref=e151]: Realtors
+        - navigation [ref=e152]:
+          - link "Home" [ref=e153] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e154] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e155] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e156] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e157] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e158] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e159] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e160] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e161]:
+          - link "Facebook" [ref=e162] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e163]
+          - link "Instagram" [ref=e165] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e166]
+          - link "Email" [ref=e170] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e171]
+      - generic [ref=e174]:
+        - link "TREC Information About Brokerage Services" [ref=e175] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e176] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e177] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e178] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e180]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e181]

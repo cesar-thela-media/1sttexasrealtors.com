@@ -1,0 +1,34 @@
+[      44ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/:0
+[     328ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ webpack-internal:///(pages-dir-browser)/./node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/cjs/react-dom-client.development.js:28004
+[     465ms] ModuleParseError: Module parse failed: Unexpected character '@' (1:0)
+File was processed with these loaders:
+ * ./node_modules/.pnpm/next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2/node_modules/next/dist/build/webpack/loaders/next-flight-css-loader.js
+You may need an additional loader to handle the result of these loaders.
+> @tailwind base;
+| @tailwind components;
+| @tailwind utilities;
+    at <unknown> (File was processed with these loaders:)
+    at handleParseError (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:29:410388)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:29:412004)
+    at processResult (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:29:407869)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:29:408891)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:8727)
+    at iterateNormalLoaders (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5565)
+    at iterateNormalLoaders (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5650)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5879)
+    at runSyncOrAsync (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:4293)
+    at iterateNormalLoaders (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5782)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\loader-runner\LoaderRunner.js:1:5426)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:29:408381)
+    at eval (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:14:9224)
+    at Array.<anonymous> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\build\webpack\plugins\profiling-plugin.js:177:29)
+    at runCallbacks (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:1:166322)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:1:168449)
+    at <unknown> (file://C:\Users\idder\tmg\loken-group\node_modules\.pnpm\next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2\node_modules\next\dist\compiled\webpack\bundle5.js:1:267828)
+    at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read/context:68:3)
+[     461ms] [LOG] [HMR] connected @ webpack-internal:///(pages-dir-browser)/./node_modules/.pnpm/next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2/node_modules/next/dist/next-devtools/shared/forward-logs-shared.js:27
+[     466ms] [ERROR] ./app/globals.css
+Module parse failed: Unexpected character '@' (1:0)
+> @tailwind base;
+| @tailwind components;
+| @tailwind utilities; @ webpack-internal:///(pages-dir-browser)/./node_modules/.pnpm/next@16.2.9_@babel+core@7.2_ff5cf81a912fbaa1808ad69d3fec28b2/node_modules/next/dist/next-devtools/userspace/pages/pages-dev-overlay-setup.js:70

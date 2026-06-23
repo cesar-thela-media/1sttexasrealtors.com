@@ -1,0 +1,207 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - paragraph [ref=e38]: About 1st Texas Realtors
+        - heading "Your neighbors. Since 2004." [level=1] [ref=e39]:
+          - text: Your neighbors.
+          - text: Since 2004.
+        - paragraph [ref=e40]: Mark and Sandra Hendricks grew up on the Clear Lake peninsula, raised their family here, and chose to build their careers here. When you work with them, you're working with people who genuinely care about this community.
+        - link "Meet the Team" [ref=e41] [cursor=pointer]:
+          - /url: /contact
+          - text: Meet the Team
+          - img [ref=e42]
+      - img "Mark and Sandra at Clear Lake" [ref=e45]
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - generic [ref=e49]: 20+
+        - generic [ref=e50]: Years in business
+      - generic [ref=e51]:
+        - generic [ref=e52]: Top 3%
+        - generic [ref=e53]: Texas Realtors since 2010
+      - generic [ref=e54]:
+        - generic [ref=e55]: 400+
+        - generic [ref=e56]: Closed transactions
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: Our Story
+        - heading "We've been here since the beginning." [level=2] [ref=e61]:
+          - text: We've been here
+          - text: since the beginning.
+        - generic [ref=e62]:
+          - paragraph [ref=e63]: "Mark and Sandra started 1st Texas Realtors in 2004 with one simple idea: be the Realtors they'd want if they were buying or selling. No high-pressure tactics, no hand-offs to assistants, no disappearing after the contract."
+          - paragraph [ref=e64]: They grew up on the Clear Lake peninsula, raised their family here, and have watched the community grow for decades. That lived experience shapes every recommendation they make — from which streets have the best schools to which neighborhoods flood.
+          - paragraph [ref=e65]: Today, more than half of their business comes from past clients and personal referrals. That's the metric they're most proud of.
+      - generic [ref=e69]:
+        - img "Family home" [ref=e71]
+        - paragraph [ref=e72]: Clear Lake, 2004
+    - generic [ref=e74]:
+      - paragraph [ref=e75]: Our Journey
+      - heading "Twenty years of milestones." [level=2] [ref=e76]
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e82]: "2004"
+          - paragraph [ref=e83]: Founded
+          - paragraph [ref=e84]: Mark and Sandra closed their first deal in Nassau Bay and never looked back.
+        - generic [ref=e85]:
+          - generic [ref=e87]: "2007"
+          - paragraph [ref=e88]: Top 10%
+          - paragraph [ref=e89]: Ranked in the top 10% of Houston-area Realtors within three years of launching.
+        - generic [ref=e90]:
+          - generic [ref=e92]: "2010"
+          - paragraph [ref=e93]: Top 3%
+          - paragraph [ref=e94]: Achieved Top 3% Texas Realtors ranking — a milestone they have held every year since.
+        - generic [ref=e95]:
+          - generic [ref=e97]: "2015"
+          - paragraph [ref=e98]: 250 Deals
+          - paragraph [ref=e99]: Crossed 250 closed transactions, all in the Clear Lake peninsula.
+        - generic [ref=e100]:
+          - generic [ref=e102]: "2020"
+          - paragraph [ref=e103]: Virtual First
+          - paragraph [ref=e104]: Helped 40+ families relocate sight-unseen during COVID, pioneering live-video tours.
+        - generic [ref=e105]:
+          - generic [ref=e107]: "2024"
+          - paragraph [ref=e108]: 400+ Deals
+          - paragraph [ref=e109]: Over 400 transactions and counting — all within the communities they call home.
+    - generic [ref=e111]:
+      - generic [ref=e112]: “
+      - blockquote [ref=e113]:
+        - text: We didn't become Realtors to sell houses.
+        - text: We became Realtors to help neighbors.
+      - paragraph [ref=e114]: — Mark & Sandra Hendricks
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - paragraph [ref=e118]: What We Stand For
+        - heading "Our values, in plain language." [level=2] [ref=e119]
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e122]: 📍
+          - heading "Deeply Local" [level=3] [ref=e123]
+          - paragraph [ref=e124]: We live here. We coach here. We shop here. This isn't a market we cover — it's our backyard.
+        - generic [ref=e125]:
+          - generic [ref=e126]: 🤝
+          - heading "No Pressure" [level=3] [ref=e127]
+          - paragraph [ref=e128]: We will never push you toward a deal that isn't right for you. Our reputation depends on your outcome.
+        - generic [ref=e129]:
+          - generic [ref=e130]: ⭐
+          - heading "Proven Results" [level=3] [ref=e131]
+          - paragraph [ref=e132]: Top 3% of Texas Realtors every year since 2010. Not by volume — by repeat clients and referrals.
+        - generic [ref=e133]:
+          - generic [ref=e134]: ❤️
+          - heading "Family First" [level=3] [ref=e135]
+          - paragraph [ref=e136]: We run our business like we run our home — with care, patience, and genuine heart.
+    - generic [ref=e138]:
+      - generic [ref=e139]:
+        - img [ref=e141]
+        - heading "Meet the Team" [level=3] [ref=e145]
+        - paragraph [ref=e146]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e147] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e148]
+      - generic [ref=e150]:
+        - img [ref=e152]
+        - heading "Search Homes" [level=3] [ref=e155]
+        - paragraph [ref=e156]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e157] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e158]
+      - generic [ref=e160]:
+        - img [ref=e162]
+        - heading "Contact Us" [level=3] [ref=e164]
+        - paragraph [ref=e165]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e166] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e167]
+    - generic [ref=e170]:
+      - generic [ref=e171]:
+        - link "1ST Texas Realtors" [ref=e172] [cursor=pointer]:
+          - /url: /
+          - img [ref=e173]
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - text: "1"
+              - superscript [ref=e177]: ST
+              - text: Texas
+            - generic [ref=e178]: Realtors
+        - navigation [ref=e179]:
+          - link "Home" [ref=e180] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e181] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e182] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e183] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e184] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e185] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e186] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e187] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e188]:
+          - link "Facebook" [ref=e189] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e190]
+          - link "Instagram" [ref=e192] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e193]
+          - link "Email" [ref=e197] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e198]
+      - generic [ref=e201]:
+        - link "TREC Information About Brokerage Services" [ref=e202] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e203] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e204] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e205] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e207]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e208]

@@ -1,0 +1,407 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - link "realtors in clear lake league city friendswood homes for sale" [ref=e7] [cursor=pointer]:
+      - /url: https://1sttexasrealtors.com/
+      - img "realtors in clear lake league city friendswood homes for sale" [ref=e8]
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - link "Facebook" [ref=e12] [cursor=pointer]:
+            - /url: https://www.facebook.com/1stTexasRealtors/
+            - img "Facebook" [ref=e13]
+          - link "Google Plus" [ref=e14] [cursor=pointer]:
+            - /url: https://www.google.com/maps/place/1st+Texas+Realtors/@29.5450206,-95.1083397,17z/data=!4m7!3m6!1s0x863f62158f68f083:0x21a34761ee84fce8!8m2!3d29.545016!4d-95.106151!9m1!1b1
+            - img "Google Plus" [ref=e15]
+          - link "LinkedIn" [ref=e16] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/david-karstedt-1st-texas-realtors-677b5217/
+            - img "LinkedIn" [ref=e17]
+        - generic [ref=e18]:
+          - generic [ref=e20]:
+            - link "Login" [ref=e21] [cursor=pointer]:
+              - /url: https://1sttexasrealtors.idxbroker.com/idx/userlogin
+            - text: "|"
+            - link "Register" [ref=e22] [cursor=pointer]:
+              - /url: https://1sttexasrealtors.idxbroker.com/idx/usersignup
+          - link "(281) 241-3121" [ref=e23]:
+            - /url: tel:(281) 241-3121
+      - navigation [ref=e25]:
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - link "About" [ref=e29] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e30]:
+            - link "Buy" [ref=e31] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e32]:
+            - link "Sell" [ref=e33] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e34]:
+            - link "Rent" [ref=e35] [cursor=pointer]:
+              - /url: https://1sttexasrealtors.com/homes-for-rent/
+              - text: Rent
+          - listitem [ref=e36]:
+            - link "Commercial" [ref=e37] [cursor=pointer]:
+              - /url: https://1sttexasrealtors.com/commercial-property-realtors/
+              - text: Commercial
+          - listitem [ref=e38]:
+            - link "Contact" [ref=e39] [cursor=pointer]:
+              - /url: https://1sttexasrealtors.com/contact/
+  - generic [ref=e40]:
+    - generic [ref=e42]:
+      - listbox [ref=e43]:
+        - generic [ref=e44]:
+          - heading "Family Owned since 2004" [level=2] [ref=e45]
+          - heading "Top 3% Realtors in Clear Lake" [level=2] [ref=e46]
+          - heading "Great Reviews & Testimonials" [level=2] [ref=e47]
+          - img "realtors in clear lake league city friendswood homes for sale" [ref=e48]
+      - text:  
+    - navigation [ref=e51]:
+      - list [ref=e54]:
+        - listitem [ref=e55]:
+          - link "Clear Lake" [ref=e56] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-clear-lake-shores-2/
+            - text: Clear Lake
+        - listitem [ref=e57]:
+          - link "Friendswood" [ref=e58] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-friendswood-2/
+            - text: Friendswood
+        - listitem [ref=e59]:
+          - link "Galveston" [ref=e60] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-galveston/
+            - text: Galveston
+        - listitem [ref=e61]:
+          - link "Kemah" [ref=e62] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-kemah/
+            - text: Kemah
+        - listitem [ref=e63]:
+          - link "League City" [ref=e64] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-league-city/
+            - text: League City
+        - listitem [ref=e65]:
+          - link "Nassau Bay" [ref=e66] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-nassau-bay/
+            - text: Nassau Bay
+        - listitem [ref=e67]:
+          - link "Pasadena" [ref=e68] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-pasadena/
+            - text: Pasadena
+        - listitem [ref=e69]:
+          - link "Pearland" [ref=e70] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-pearland-2/
+            - text: Pearland
+        - listitem [ref=e71]:
+          - link "Seabrook" [ref=e72] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-seabrook/
+            - text: Seabrook
+    - generic [ref=e74]:
+      - generic [ref=e75]:
+        - heading "Welcome to 1st Texas Realtors in Clear Lake!" [level=3] [ref=e76]
+        - paragraph [ref=e77]:
+          - strong [ref=e78]: Family owned since 2004,
+          - text: we provide expert Realtors in Clear Lake, dedicated customer service and real-time listings of homes for sale and rent.
+        - paragraph [ref=e79]:
+          - strong [ref=e80]: David Karstedt and wife Simone
+          - text: work as a team at 1st Texas Realtors, receive overwhelmingly positive reviews highlighting their exceptional responsiveness, deep knowledge and strong negotiation skills. This dynamic duo is known for personalized, patient service making the complex home buying and selling process smooth and enjoyable for their clients. They are praised for exceeding expectations and trusted advisors earning loyalty through high-quality service. Please see more
+          - link "Testimonials" [ref=e81] [cursor=pointer]:
+            - /url: /realtor-reviews/
+          - text: .
+        - heading "Contact a Realtor." [level=4] [ref=e82]:
+          - link "Contact a Realtor." [ref=e83] [cursor=pointer]:
+            - /url: /agents/
+        - paragraph [ref=e84]:
+          - text: Our team of talented Realtors provide you with the
+          - strong [ref=e85]: critical elements of success; local experience, dedicated customer service and real-time property listings
+          - text: . Every year since 2010, we have been recognized by Texas Monthly Magazine as Top 3% Realtors in Clear Lake – NASA.
+        - heading "Buying a Home." [level=4] [ref=e86]:
+          - link "Buying a Home." [ref=e87] [cursor=pointer]:
+            - /url: /home-buyers/
+        - paragraph [ref=e88]:
+          - text: Find the home first, use our
+          - link "Home Search" [ref=e89] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.idxbroker.com/idx/search/basic
+          - text: to view real-time listings of homes for sale and rent that are available today! You can
+          - link "Register" [ref=e90] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.idxbroker.com/idx/usersignup
+          - text: to save custom home searches with automatic email alerts for new listings of homes for sale in Clear Lake that match your search.
+        - heading "View homes for sale:" [level=4] [ref=e91]
+        - paragraph [ref=e92]:
+          - link "Baytown" [ref=e93] [cursor=pointer]:
+            - /url: /realtors-in-baytown/
+          - text: "|"
+          - link "Clear Lake City" [ref=e94] [cursor=pointer]:
+            - /url: /clear-lake-tx-homes-for-sale/
+          - text: "|"
+          - link "Clear Lake Shores" [ref=e95] [cursor=pointer]:
+            - /url: /realtors-in-clear-lake-shores-2/
+          - text: "|"
+          - link "Deer Park" [ref=e96] [cursor=pointer]:
+            - /url: /realtors-in-deer-park-2/
+          - text: "|"
+          - link "Dickinson" [ref=e97] [cursor=pointer]:
+            - /url: /realtors-in-dickinson/
+          - text: "|"
+          - link "El Lago" [ref=e98] [cursor=pointer]:
+            - /url: /realtors-in-el-lago/
+          - text: "|"
+          - link "Friendswood" [ref=e99] [cursor=pointer]:
+            - /url: http://friendswoodtxrealtors.com/
+          - text: "|"
+          - link "Galveston" [ref=e100] [cursor=pointer]:
+            - /url: /realtors-in-galveston/
+          - text: "|"
+          - link "Kemah" [ref=e101] [cursor=pointer]:
+            - /url: /realtors-in-kemah/
+          - text: "|"
+          - link "La Porte" [ref=e102] [cursor=pointer]:
+            - /url: /realtors-in-la-porte-2/
+          - text: "|"
+          - link "League City" [ref=e103] [cursor=pointer]:
+            - /url: http://leaguecitytxrealtors.com/
+          - text: "|"
+          - link "Nassau Bay" [ref=e104] [cursor=pointer]:
+            - /url: /realtors-in-nassau-bay/
+          - text: "|"
+          - link "Pasadena" [ref=e105] [cursor=pointer]:
+            - /url: /realtors-in-pasadena/
+          - text: "|"
+          - link "Pearland" [ref=e106] [cursor=pointer]:
+            - /url: /realtors-in-pearland-2/
+          - text: "|"
+          - link "San Leon" [ref=e107] [cursor=pointer]:
+            - /url: /realtors-in-san-leon-2/
+          - text: "|"
+          - link "Seabrook" [ref=e108] [cursor=pointer]:
+            - /url: /realtors-in-seabrook/
+          - text: "|"
+          - link "Shoreacres" [ref=e109] [cursor=pointer]:
+            - /url: /realtors-in-shoreacres-2/
+          - text: "|"
+          - link "Taylor Lake Village" [ref=e110] [cursor=pointer]:
+            - /url: /realtors-in-taylor-lake-village/
+          - text: "|"
+          - link "Texas City" [ref=e111] [cursor=pointer]:
+            - /url: /realtors-in-texas-city-2/
+          - text: "|"
+          - link "Tiki Island" [ref=e112] [cursor=pointer]:
+            - /url: /realtors-in-tiki-island/
+          - text: "|"
+          - link "Webster" [ref=e113] [cursor=pointer]:
+            - /url: /realtors-in-webster-2/
+        - heading "Selling a Home." [level=4] [ref=e114]:
+          - link "Selling a Home." [ref=e115] [cursor=pointer]:
+            - /url: /seller-services/
+        - paragraph [ref=e116]: Read about our Home Selling services starting with a free Market Analysis to determine the best price to sell your home. We provide comprehensive Realtor services when selling single family residential homes, town homes and high-rise condominiums.
+        - heading "Homes for Rent." [level=4] [ref=e117]:
+          - link "Homes for Rent." [ref=e118] [cursor=pointer]:
+            - /url: /homes-for-rent/
+        - paragraph [ref=e119]: As long-time residents of Clear Lake NASA, we have helped many families find the best home in the best neighborhood with the best commutes and schools. We negotiate with the owner for the best deal. Click below to view all rental home listings and call us to schedule a visit.
+        - heading "View Homes for rent:" [level=4] [ref=e120]
+        - paragraph [ref=e121]:
+          - link "Baytown" [ref=e122] [cursor=pointer]:
+            - /url: /baytown-tx-homes-for-rent/
+          - text: "|"
+          - link "Clear Lake City" [ref=e123] [cursor=pointer]:
+            - /url: /clear-lake-city-tx-homes-for-rent/
+          - text: "|"
+          - link "Clear Lake Shores" [ref=e124] [cursor=pointer]:
+            - /url: /clear-lake-shores-tx-homes-for-rent/
+          - text: "|"
+          - link "Deer Park" [ref=e125] [cursor=pointer]:
+            - /url: /deer-park-tx-homes-for-rent/
+          - text: "|"
+          - link "Dickinson" [ref=e126] [cursor=pointer]:
+            - /url: /dickinson-tx-homes-for-rent/
+          - text: "|"
+          - link "El Lago" [ref=e127] [cursor=pointer]:
+            - /url: /el-lago-tx-homes-for-rent/
+          - text: "|"
+          - link "Friendswood" [ref=e128] [cursor=pointer]:
+            - /url: /friendswood-tx-homes-for-rent/
+          - text: "|"
+          - link "Galveston" [ref=e129] [cursor=pointer]:
+            - /url: /galveston-homes-for-rent/
+          - text: "|"
+          - link "Kemah" [ref=e130] [cursor=pointer]:
+            - /url: /kemah-tx-homes-for-rent/
+          - text: "|"
+          - link "La Porte" [ref=e131] [cursor=pointer]:
+            - /url: /la-porte-tx-homes-for-rent/
+          - text: "|"
+          - link "League City" [ref=e132] [cursor=pointer]:
+            - /url: /league-city-homes-for-rent/
+          - text: "|"
+          - link "Nassau Bay" [ref=e133] [cursor=pointer]:
+            - /url: /nassau-bay-tx-homes-for-rent/
+          - text: "|"
+          - link "Pasadena" [ref=e134] [cursor=pointer]:
+            - /url: /pasadena-tx-homes-for-rent/
+          - text: "|"
+          - link "Pearland" [ref=e135] [cursor=pointer]:
+            - /url: /pearland-tx-homes-for-rent/
+          - text: "|"
+          - link "San Leon" [ref=e136] [cursor=pointer]:
+            - /url: /san-leon-tx-homes-for-rent/
+          - text: "|"
+          - link "Seabrook" [ref=e137] [cursor=pointer]:
+            - /url: /seabrook-tx-homes-for-rent/
+          - text: "|"
+          - link "Shoreacres" [ref=e138] [cursor=pointer]:
+            - /url: /shoreacres-tx-homes-for-rent/
+          - text: "|"
+          - link "Taylor Lake Village" [ref=e139] [cursor=pointer]:
+            - /url: /taylor-lake-village-tx-homes-for-rent/
+          - text: "|"
+          - link "Texas City" [ref=e140] [cursor=pointer]:
+            - /url: /texas-city-tx-homes-for-rent/
+          - text: "|"
+          - link "Tiki Island" [ref=e141] [cursor=pointer]:
+            - /url: /tiki-island-tx-homes-for-rent/
+          - text: "|"
+          - link "Webster" [ref=e142] [cursor=pointer]:
+            - /url: /webster-tx-homes-for-rent/
+        - heading "Leasing | Property Management." [level=4] [ref=e143]:
+          - link "Leasing | Property Management." [ref=e144] [cursor=pointer]:
+            - /url: /homes-for-rent/
+        - paragraph [ref=e145]: We provide expert property management and home leasing services including maintenance, repairs and home leasing service. All prospective tenants are interviewed with a completed background check, references verified and complete the lease with a deposit.
+        - paragraph
+        - paragraph [ref=e146]:
+          - text: For immediate service, please call
+          - strong [ref=e147]: (281) 241-3121
+          - text: .
+        - generic [ref=e148]: 1st Texas Realtors for local Realtors and real-time listings of homes for sale in Baytown, Clear Lake City, Clear Lake Shores, Deer Park, Dickinson, El Lago, Friendswood, Galveston, Kemah, La Porte, League City, Nassau Bay, Pasadena, Pearland, Seabrook, Taylor Lake Village, Texas City, Tiki Island and Webster.
+        - paragraph [ref=e149]:
+          - img "clear lake tx realtors" [ref=e150]
+        - paragraph [ref=e151]:
+          - link "Texas Real Estate Commission Consumer Protection Notice" [ref=e152] [cursor=pointer]:
+            - /url: /wp-content/uploads/TREC-CN-1-4-1_1.pdf
+          - link "Texas Real Estate Commission Information About Brokerage Services" [ref=e153] [cursor=pointer]:
+            - /url: /wp-content/uploads/David-Karstedt-IABS.pdf
+            - text: Texas Real Estate Commission Information About Brokerage Services
+      - generic [ref=e154]:
+        - complementary [ref=e155]
+        - complementary [ref=e156]:
+          - generic [ref=e157]:
+            - paragraph [ref=e158]:
+              - link "Register" [ref=e159] [cursor=pointer]:
+                - /url: https://1sttexasrealtors.idxbroker.com/idx/usersignup/
+              - emphasis [ref=e160]: Free Membership! Build custom searches and receive email alerts when newly listed homes for sale are added to your search. To get the home, you must be first!
+            - paragraph [ref=e161]:
+              - link "Home Search" [ref=e162] [cursor=pointer]:
+                - /url: https://1sttexasrealtors.idxbroker.com/idx/search/basic
+              - emphasis [ref=e163]: Use our free MLS Home Search to browse homes for sale.
+            - paragraph [ref=e164]:
+              - link "Contact Us" [ref=e165] [cursor=pointer]:
+                - /url: https://1sttexasrealtors.com/contact/
+              - emphasis [ref=e166]: Send us an email with any questions you have about Realtors and services.
+  - generic [ref=e167]:
+    - generic [ref=e169]:
+      - generic [ref=e171]: © 2026 1st Texas Realtors.
+      - list [ref=e173]:
+        - listitem [ref=e174]:
+          - img "realtors in clear lake league city friendswood homes for sale" [ref=e175]
+        - listitem [ref=e176]:
+          - img "realtors association clear lake friendswood league city" [ref=e177]
+        - listitem [ref=e178]:
+          - img "multiple listing service realtors clear lake friendswood league city" [ref=e179]
+        - listitem [ref=e180]:
+          - img "equal housing opportunity realtors clear lake friendswood league city" [ref=e181]
+    - navigation [ref=e183]:
+      - list [ref=e186]:
+        - listitem [ref=e187]:
+          - link "Home" [ref=e188] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/
+            - text: Home
+        - listitem [ref=e189]:
+          - link "Home Buying" [ref=e190] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/home-buyers/
+        - listitem [ref=e191]:
+          - link "Sell" [ref=e192] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/seller-services/
+        - listitem [ref=e193]:
+          - link "Commercial" [ref=e194] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/commercial-property-realtors/
+            - text: Commercial
+        - listitem [ref=e195]:
+          - link "Baytown" [ref=e196] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-baytown/
+            - text: Baytown
+        - listitem [ref=e197]:
+          - link "Clear Lake City" [ref=e198] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/clear-lake-tx-homes-for-sale/
+            - text: Clear Lake City
+        - listitem [ref=e199]:
+          - link "Clear Lake Shores" [ref=e200] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-clear-lake-shores-2/
+            - text: Clear Lake Shores
+        - listitem [ref=e201]:
+          - link "Deer Park" [ref=e202] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-deer-park-2/
+            - text: Deer Park
+        - listitem [ref=e203]:
+          - link "Dickinson" [ref=e204] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-dickinson/
+            - text: Dickinson
+        - listitem [ref=e205]:
+          - link "El Lago" [ref=e206] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-el-lago/
+            - text: El Lago
+        - listitem [ref=e207]:
+          - link "Friendswood" [ref=e208] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-friendswood-2/
+            - text: Friendswood
+        - listitem [ref=e209]:
+          - link "Galveston" [ref=e210] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-galveston/
+            - text: Galveston
+        - listitem [ref=e211]:
+          - link "Kemah" [ref=e212] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-kemah/
+            - text: Kemah
+        - listitem [ref=e213]:
+          - link "La Porte" [ref=e214] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-la-porte-2/
+            - text: La Porte
+        - listitem [ref=e215]:
+          - link "League City" [ref=e216] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-league-city/
+            - text: League City
+        - listitem [ref=e217]:
+          - link "Nassau Bay" [ref=e218] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-nassau-bay/
+            - text: Nassau Bay
+        - listitem [ref=e219]:
+          - link "Pasadena" [ref=e220] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-pasadena/
+            - text: Pasadena
+        - listitem [ref=e221]:
+          - link "Pearland" [ref=e222] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-pearland-2/
+            - text: Pearland
+        - listitem [ref=e223]:
+          - link "San Leon" [ref=e224] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-san-leon-2/
+            - text: San Leon
+        - listitem [ref=e225]:
+          - link "Seabrook" [ref=e226] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-seabrook/
+            - text: Seabrook
+        - listitem [ref=e227]:
+          - link "Shoreacres" [ref=e228] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-shoreacres-2/
+            - text: Shoreacres
+        - listitem [ref=e229]:
+          - link "Taylor Lake Village" [ref=e230] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-taylor-lake-village/
+            - text: Taylor Lake Village
+        - listitem [ref=e231]:
+          - link "Texas City" [ref=e232] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-texas-city-2/
+            - text: Texas City
+        - listitem [ref=e233]:
+          - link "Tiki Island" [ref=e234] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-tiki-island/
+            - text: Tiki Island
+        - listitem [ref=e235]:
+          - link "Webster" [ref=e236] [cursor=pointer]:
+            - /url: https://1sttexasrealtors.com/realtors-in-webster-2/
+            - text: Webster

@@ -1,0 +1,187 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+      - link "Contact a Realtor" [ref=e31] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e32]:
+      - img "Beautiful Texas home exterior" [ref=e33]
+      - generic [ref=e35]:
+        - paragraph [ref=e36]: Home Buyers
+        - heading "Buying a Home in Clear Lake?" [level=1] [ref=e37]
+        - paragraph [ref=e38]: We'll find you the right home in the right neighborhood — and make the process genuinely enjoyable.
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - paragraph [ref=e42]: Your Search Starts Here
+        - heading "Local knowledge you can't Google." [level=2] [ref=e43]:
+          - text: Local knowledge
+          - text: you can't Google.
+        - generic [ref=e44]:
+          - paragraph [ref=e45]: Online listings show you what's available. We show you what's worth buying. After 20+ years in this market, we know which streets get noisy on weekends, which subdivisions have great HOA management, and which homes are priced to move.
+          - paragraph [ref=e46]: We work exclusively with a limited number of buyers at a time so we can give every client the attention they deserve — not hand you off to an assistant.
+        - link "Start Your Search" [ref=e47] [cursor=pointer]:
+          - /url: /contact
+          - text: Start Your Search
+          - img [ref=e48]
+      - img "Interior of a beautiful home" [ref=e51]
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: How It Works
+        - heading "Our Buying Process" [level=2] [ref=e56]
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: "01"
+          - generic [ref=e60]:
+            - heading "Tell Us What You Need" [level=3] [ref=e61]
+            - paragraph [ref=e62]: We start with a no-pressure conversation to understand your budget, timeline, must-haves, and which communities feel right. No forms, no algorithms — just a real conversation.
+        - generic [ref=e63]:
+          - generic [ref=e64]: "02"
+          - generic [ref=e65]:
+            - heading "We Search the Full Market" [level=3] [ref=e66]
+            - paragraph [ref=e67]: We have access to every listing — MLS, off-market, and coming-soon properties that most buyers never see. We filter so you only spend time on homes that are actually worth your time.
+        - generic [ref=e68]:
+          - generic [ref=e69]: "03"
+          - generic [ref=e70]:
+            - heading "Tour With Local Eyes" [level=3] [ref=e71]
+            - paragraph [ref=e72]: We don't just open doors. We walk you through every detail — the school zones, the flood history, the neighbors, the commute. Nothing gets glossed over.
+        - generic [ref=e73]:
+          - generic [ref=e74]: "04"
+          - generic [ref=e75]:
+            - heading "Negotiate Hard for You" [level=3] [ref=e76]
+            - paragraph [ref=e77]: We know what homes are really worth around here. We'll write a strong offer and negotiate on your behalf — price, repairs, closing costs, timeline. Everything.
+        - generic [ref=e78]:
+          - generic [ref=e79]: "05"
+          - generic [ref=e80]:
+            - heading "Close With Confidence" [level=3] [ref=e81]
+            - paragraph [ref=e82]: We coordinate every step of closing — inspections, title, lender, survey — so nothing surprises you at the table. After closing, we're still your neighbors.
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - paragraph [ref=e86]: Buyer FAQ
+        - heading "Common Questions" [level=2] [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - heading "Do I need to be pre-approved before we start looking?" [level=3] [ref=e90]
+          - paragraph [ref=e91]: Not necessarily, but we recommend it. A pre-approval letter shows sellers you're serious and helps us narrow your search to homes in your actual price range. We can refer you to local lenders we trust.
+        - generic [ref=e92]:
+          - heading "How long does it usually take to find and close on a home?" [level=3] [ref=e93]
+          - paragraph [ref=e94]: It varies. Some buyers find the right home in a few weekends; others take a few months. Closing typically takes 30–45 days once you're under contract. We'll help you plan for your timeline.
+        - generic [ref=e95]:
+          - heading "Does it cost me anything to use a buyer's agent?" [level=3] [ref=e96]
+          - paragraph [ref=e97]: In most cases, the seller pays the buyer's agent commission — meaning our services are effectively free to you as a buyer. We'll always be transparent about how compensation works in any specific deal.
+        - generic [ref=e98]:
+          - heading "What areas do you cover?" [level=3] [ref=e99]
+          - paragraph [ref=e100]: We specialize in Clear Lake, Seabrook, El Lago, Nassau Bay, Taylor Lake Village, Kemah, Webster, League City, Friendswood, and surrounding communities in southeast Houston.
+    - generic [ref=e102]:
+      - heading "Ready to find your home?" [level=2] [ref=e103]
+      - paragraph [ref=e104]: Let's have a conversation. No commitments, no paperwork — just your questions and our honest answers.
+      - link "Contact a Realtor" [ref=e105] [cursor=pointer]:
+        - /url: /contact
+        - text: Contact a Realtor
+        - img [ref=e106]
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - img [ref=e112]
+        - heading "Register" [level=3] [ref=e116]
+        - paragraph [ref=e117]: Create an account to save favorites and set up alerts.
+        - link "Get Started" [ref=e118] [cursor=pointer]:
+          - /url: "#register"
+          - text: Get Started
+          - img [ref=e119]
+      - generic [ref=e121]:
+        - img [ref=e123]
+        - heading "Search Homes" [level=3] [ref=e126]
+        - paragraph [ref=e127]: Explore homes for sale in Clear Lake and nearby.
+        - link "Search Now" [ref=e128] [cursor=pointer]:
+          - /url: "#search"
+          - text: Search Now
+          - img [ref=e129]
+      - generic [ref=e131]:
+        - img [ref=e133]
+        - heading "Contact Us" [level=3] [ref=e135]
+        - paragraph [ref=e136]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e137] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Get In Touch
+          - img [ref=e138]
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - link "1ST Texas Realtors" [ref=e143] [cursor=pointer]:
+          - /url: /
+          - img [ref=e144]
+          - generic [ref=e146]:
+            - generic [ref=e147]:
+              - text: "1"
+              - superscript [ref=e148]: ST
+              - text: Texas
+            - generic [ref=e149]: Realtors
+        - navigation [ref=e150]:
+          - link "Home" [ref=e151] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e152] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e153] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e154] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e155] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e156] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e157] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e158] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e159]:
+          - link "Facebook" [ref=e160] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e161]
+          - link "Instagram" [ref=e163] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e164]
+          - link "Email" [ref=e168] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e169]
+      - generic [ref=e172]:
+        - link "TREC Information About Brokerage Services" [ref=e173] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e174] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e175] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e176] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e178]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e179]

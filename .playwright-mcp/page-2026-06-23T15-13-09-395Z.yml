@@ -1,0 +1,207 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e35]:
+      - img "Seabrook neighborhood" [ref=e36]
+      - generic [ref=e38]:
+        - paragraph [ref=e39]: Communities → Seabrook
+        - heading "Realtors in Seabrook" [level=1] [ref=e40]
+        - paragraph [ref=e41]: Waterfront Living with Small-Town Charm
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - paragraph [ref=e45]: Price Range
+        - paragraph [ref=e46]: $250,000 – $1.2M+
+      - generic [ref=e47]:
+        - paragraph [ref=e48]: Schools
+        - paragraph [ref=e49]: Clear Creek ISD
+      - generic [ref=e50]:
+        - paragraph [ref=e51]: Commute
+        - paragraph [ref=e52]: ~35 min to Medical Center, ~45 min to Downtown
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - paragraph [ref=e56]: Living in Seabrook
+        - heading "We know this neighborhood like our own backyard." [level=2] [ref=e57]:
+          - text: We know this neighborhood
+          - text: like our own backyard.
+        - paragraph [ref=e58]: Seabrook sits right on the edge of Galveston Bay and Clear Lake — a waterfront lifestyle with genuine small-town character.
+        - paragraph [ref=e59]: Downtown Seabrook is lined with restaurants, art galleries, and local shops. Neighborhoods range from modest starter homes to waterfront estates with private docks. It's a community where people stay for decades — and it shows.
+        - blockquote [ref=e60]:
+          - paragraph [ref=e61]: “Sandra showed us a waterfront lot most buyers never knew existed. We built our dream home. Two years later, we still can't believe we live here.”
+          - generic [ref=e62]: — Jim & Carol H., Seabrook
+        - link "Contact a Local Realtor" [ref=e63] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact a Local Realtor
+          - img [ref=e64]
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - heading "What makes Seabrook special" [level=3] [ref=e68]
+          - list [ref=e69]:
+            - listitem [ref=e70]:
+              - generic [ref=e72]: Waterfront dining & culture
+            - listitem [ref=e73]:
+              - generic [ref=e75]: Sailboat & fishing access
+            - listitem [ref=e76]:
+              - generic [ref=e78]: Walkable downtown
+            - listitem [ref=e79]:
+              - generic [ref=e81]: Strong local identity
+            - listitem [ref=e82]:
+              - generic [ref=e84]: Diverse price range
+        - generic [ref=e85]:
+          - paragraph [ref=e86]: Insider Tips
+          - list [ref=e87]:
+            - listitem [ref=e88]:
+              - generic [ref=e89]: →
+              - text: "Waterfront dining: Tookie's Burgers is a local legend"
+            - listitem [ref=e90]:
+              - generic [ref=e91]: →
+              - text: Marina del Sol has the best sunrise views
+            - listitem [ref=e92]:
+              - generic [ref=e93]: →
+              - text: Red Bluff Rd floods — ask us which streets
+            - listitem [ref=e94]:
+              - generic [ref=e95]: →
+              - text: Seabrook Jazz Festival each October
+    - generic [ref=e97]:
+      - generic [ref=e98]:
+        - paragraph [ref=e99]: Why 1st Texas
+        - heading "More than listings. Real local knowledge." [level=2] [ref=e100]:
+          - text: More than listings.
+          - text: Real local knowledge.
+        - paragraph [ref=e101]: Anyone can pull up Zillow. We bring 20+ years of local expertise — we know which streets are quiet, which neighborhoods flood, and which listings are priced right. When you work with us in Seabrook, you get agents who have sold dozens of homes here.
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - paragraph [ref=e104]: 20+
+          - paragraph [ref=e105]: Years in this market
+        - generic [ref=e106]:
+          - paragraph [ref=e107]: 100+
+          - paragraph [ref=e108]: Combined experience
+        - generic [ref=e109]:
+          - paragraph [ref=e110]: Top 3%
+          - paragraph [ref=e111]: Texas Realtors every year
+        - generic [ref=e112]:
+          - paragraph [ref=e113]: 5★
+          - paragraph [ref=e114]: 200+ client reviews
+    - generic [ref=e116]:
+      - heading "Ready to buy or sell in Seabrook?" [level=2] [ref=e117]
+      - paragraph [ref=e118]: No pressure, no obligation — just real guidance from people who know this community.
+      - generic [ref=e119]:
+        - link "Contact a Realtor" [ref=e120] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact a Realtor
+          - img [ref=e121]
+        - link "← View All Communities" [ref=e123] [cursor=pointer]:
+          - /url: /communities
+    - generic [ref=e125]:
+      - generic [ref=e126]:
+        - img [ref=e128]
+        - heading "Meet the Team" [level=3] [ref=e132]
+        - paragraph [ref=e133]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e134] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e135]
+      - generic [ref=e137]:
+        - img [ref=e139]
+        - heading "Search Homes" [level=3] [ref=e142]
+        - paragraph [ref=e143]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e144] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e145]
+      - generic [ref=e147]:
+        - img [ref=e149]
+        - heading "Contact Us" [level=3] [ref=e151]
+        - paragraph [ref=e152]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e153] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e154]
+    - generic [ref=e157]:
+      - generic [ref=e158]:
+        - link "1ST Texas Realtors" [ref=e159] [cursor=pointer]:
+          - /url: /
+          - img [ref=e160]
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - text: "1"
+              - superscript [ref=e164]: ST
+              - text: Texas
+            - generic [ref=e165]: Realtors
+        - navigation [ref=e166]:
+          - link "Home" [ref=e167] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e168] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e169] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e170] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e171] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e172] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e173] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e174] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e175]:
+          - link "Facebook" [ref=e176] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e177]
+          - link "Instagram" [ref=e179] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e180]
+          - link "Email" [ref=e184] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e185]
+      - generic [ref=e188]:
+        - link "TREC Information About Brokerage Services" [ref=e189] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e190] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e191] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e192] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e194]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e195]

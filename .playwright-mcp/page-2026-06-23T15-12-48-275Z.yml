@@ -1,0 +1,351 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e35]:
+      - generic [ref=e37]:
+        - paragraph [ref=e38]: Homes for Rent
+        - heading "Rent with a Realtor who lives here too." [level=1] [ref=e39]:
+          - text: Rent with a Realtor
+          - text: who lives here too.
+        - paragraph [ref=e40]: Quality rental homes across southeast Houston — and the local expertise to help you pick the right neighborhood before you commit.
+        - link "Tell Us What You Need" [ref=e41] [cursor=pointer]:
+          - /url: /contact
+          - text: Tell Us What You Need
+          - img [ref=e42]
+      - img "Rental home" [ref=e45]
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - paragraph [ref=e49]: 125+
+        - paragraph [ref=e50]: Active rentals in our network
+      - generic [ref=e51]:
+        - paragraph [ref=e52]: $1,750
+        - paragraph [ref=e53]: Average monthly rent
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: 21 cities
+        - paragraph [ref=e56]: Southeast Houston coverage
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - paragraph [ref=e61]: Featured Rentals
+          - heading "Currently Available" [level=2] [ref=e62]
+        - link "Get Full Access" [ref=e63] [cursor=pointer]:
+          - /url: /contact
+          - text: Get Full Access
+          - img [ref=e64]
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - img "1508 Marina View Ct" [ref=e69]
+            - generic [ref=e70]: Available Now
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - generic [ref=e74]: Single Family
+              - heading "1508 Marina View Ct" [level=3] [ref=e75]
+              - paragraph [ref=e76]: Seabrook, TX 77586
+              - generic [ref=e77]:
+                - generic [ref=e78]: 3 bd
+                - generic [ref=e79]: "|"
+                - generic [ref=e80]: 2 ba
+                - generic [ref=e81]: "|"
+                - generic [ref=e82]: 1,680 sqft
+            - generic [ref=e83]:
+              - paragraph [ref=e84]: $1,950/mo
+              - link "Inquire" [ref=e85] [cursor=pointer]:
+                - /url: /contact
+                - text: Inquire
+                - img [ref=e86]
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - img "3302 Bay Oaks Ln" [ref=e90]
+            - generic [ref=e91]: Available Aug 1
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - generic [ref=e95]: Single Family
+              - heading "3302 Bay Oaks Ln" [level=3] [ref=e96]
+              - paragraph [ref=e97]: Clear Lake City, TX 77062
+              - generic [ref=e98]:
+                - generic [ref=e99]: 4 bd
+                - generic [ref=e100]: "|"
+                - generic [ref=e101]: 2.5 ba
+                - generic [ref=e102]: "|"
+                - generic [ref=e103]: 2,280 sqft
+            - generic [ref=e104]:
+              - paragraph [ref=e105]: $2,400/mo
+              - link "Inquire" [ref=e106] [cursor=pointer]:
+                - /url: /contact
+                - text: Inquire
+                - img [ref=e107]
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - img "610 Kemah Cove Dr" [ref=e111]
+            - generic [ref=e112]: Available Now
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - generic [ref=e116]: Townhome
+              - heading "610 Kemah Cove Dr" [level=3] [ref=e117]
+              - paragraph [ref=e118]: Kemah, TX 77565
+              - generic [ref=e119]:
+                - generic [ref=e120]: 2 bd
+                - generic [ref=e121]: "|"
+                - generic [ref=e122]: 2 ba
+                - generic [ref=e123]: "|"
+                - generic [ref=e124]: 1,200 sqft
+            - generic [ref=e125]:
+              - paragraph [ref=e126]: $1,750/mo
+              - link "Inquire" [ref=e127] [cursor=pointer]:
+                - /url: /contact
+                - text: Inquire
+                - img [ref=e128]
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - img "822 El Lago Dr" [ref=e132]
+            - generic [ref=e133]: Available Jul 15
+          - generic [ref=e134]:
+            - generic [ref=e135]:
+              - generic [ref=e137]: Single Family
+              - heading "822 El Lago Dr" [level=3] [ref=e138]
+              - paragraph [ref=e139]: El Lago, TX 77586
+              - generic [ref=e140]:
+                - generic [ref=e141]: 3 bd
+                - generic [ref=e142]: "|"
+                - generic [ref=e143]: 2 ba
+                - generic [ref=e144]: "|"
+                - generic [ref=e145]: 1,850 sqft
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: $2,100/mo
+              - link "Inquire" [ref=e148] [cursor=pointer]:
+                - /url: /contact
+                - text: Inquire
+                - img [ref=e149]
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - img "2715 Nassau Shores Blvd" [ref=e153]
+            - generic [ref=e154]: Available Now
+          - generic [ref=e155]:
+            - generic [ref=e156]:
+              - generic [ref=e158]: Waterfront
+              - heading "2715 Nassau Shores Blvd" [level=3] [ref=e159]
+              - paragraph [ref=e160]: Nassau Bay, TX 77058
+              - generic [ref=e161]:
+                - generic [ref=e162]: 4 bd
+                - generic [ref=e163]: "|"
+                - generic [ref=e164]: 3 ba
+                - generic [ref=e165]: "|"
+                - generic [ref=e166]: 2,600 sqft
+            - generic [ref=e167]:
+              - paragraph [ref=e168]: $2,650/mo
+              - link "Inquire" [ref=e169] [cursor=pointer]:
+                - /url: /contact
+                - text: Inquire
+                - img [ref=e170]
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - img "414 League City Pkwy" [ref=e174]
+            - generic [ref=e175]: Available Aug 15
+          - generic [ref=e176]:
+            - generic [ref=e177]:
+              - generic [ref=e179]: Single Family
+              - heading "414 League City Pkwy" [level=3] [ref=e180]
+              - paragraph [ref=e181]: League City, TX 77573
+              - generic [ref=e182]:
+                - generic [ref=e183]: 3 bd
+                - generic [ref=e184]: "|"
+                - generic [ref=e185]: 2 ba
+                - generic [ref=e186]: "|"
+                - generic [ref=e187]: 1,550 sqft
+            - generic [ref=e188]:
+              - paragraph [ref=e189]: $1,850/mo
+              - link "Inquire" [ref=e190] [cursor=pointer]:
+                - /url: /contact
+                - text: Inquire
+                - img [ref=e191]
+    - generic [ref=e194]:
+      - paragraph [ref=e195]: The Process
+      - heading "How renting with us works" [level=2] [ref=e196]
+      - generic [ref=e197]:
+        - generic [ref=e198]:
+          - paragraph [ref=e199]: "01"
+          - heading "Tell us what you need" [level=3] [ref=e200]
+          - paragraph [ref=e201]: Size, location, price, pets, timeline. We listen and match — no generic searches.
+        - generic [ref=e202]:
+          - paragraph [ref=e203]: "02"
+          - heading "We find your options" [level=3] [ref=e204]
+          - paragraph [ref=e205]: We access listings not on Zillow, contact our landlord network, and filter to what fits.
+        - generic [ref=e206]:
+          - paragraph [ref=e207]: "03"
+          - heading "We handle the details" [level=3] [ref=e208]
+          - paragraph [ref=e209]: Lease review, negotiation, move-in walkthrough. Our service costs you nothing.
+    - generic [ref=e211]:
+      - generic [ref=e212]:
+        - paragraph [ref=e213]: Browse by Area
+        - heading "Rentals by Community" [level=2] [ref=e214]
+      - generic [ref=e215]:
+        - link "Clear Lake City 14" [ref=e216] [cursor=pointer]:
+          - /url: /homes-for-rent/clear-lake-city
+          - generic [ref=e217]: Clear Lake City
+          - generic [ref=e218]: "14"
+        - link "Seabrook 9" [ref=e219] [cursor=pointer]:
+          - /url: /homes-for-rent/seabrook
+          - generic [ref=e220]: Seabrook
+          - generic [ref=e221]: "9"
+        - link "Kemah 7" [ref=e222] [cursor=pointer]:
+          - /url: /homes-for-rent/kemah
+          - generic [ref=e223]: Kemah
+          - generic [ref=e224]: "7"
+        - link "Nassau Bay 5" [ref=e225] [cursor=pointer]:
+          - /url: /homes-for-rent/nassau-bay
+          - generic [ref=e226]: Nassau Bay
+          - generic [ref=e227]: "5"
+        - link "El Lago 4" [ref=e228] [cursor=pointer]:
+          - /url: /homes-for-rent/el-lago
+          - generic [ref=e229]: El Lago
+          - generic [ref=e230]: "4"
+        - link "Taylor Lake Village 6" [ref=e231] [cursor=pointer]:
+          - /url: /homes-for-rent/taylor-lake-village
+          - generic [ref=e232]: Taylor Lake Village
+          - generic [ref=e233]: "6"
+        - link "League City 18" [ref=e234] [cursor=pointer]:
+          - /url: /homes-for-rent/league-city
+          - generic [ref=e235]: League City
+          - generic [ref=e236]: "18"
+        - link "Webster 11" [ref=e237] [cursor=pointer]:
+          - /url: /homes-for-rent/webster
+          - generic [ref=e238]: Webster
+          - generic [ref=e239]: "11"
+        - link "Friendswood 8" [ref=e240] [cursor=pointer]:
+          - /url: /homes-for-rent/friendswood
+          - generic [ref=e241]: Friendswood
+          - generic [ref=e242]: "8"
+        - link "Pearland 22" [ref=e243] [cursor=pointer]:
+          - /url: /homes-for-rent/pearland
+          - generic [ref=e244]: Pearland
+          - generic [ref=e245]: "22"
+        - link "Galveston 13" [ref=e246] [cursor=pointer]:
+          - /url: /homes-for-rent/galveston
+          - generic [ref=e247]: Galveston
+          - generic [ref=e248]: "13"
+        - link "Dickinson 7" [ref=e249] [cursor=pointer]:
+          - /url: /homes-for-rent/dickinson
+          - generic [ref=e250]: Dickinson
+          - generic [ref=e251]: "7"
+    - generic [ref=e253]:
+      - heading "Don't see what you need?" [level=2] [ref=e254]
+      - paragraph [ref=e255]: Tell us what you're looking for — size, location, price range, available date — and we'll reach out to our network on your behalf.
+      - link "Tell Us What You Need" [ref=e256] [cursor=pointer]:
+        - /url: /contact
+        - text: Tell Us What You Need
+        - img [ref=e257]
+    - generic [ref=e260]:
+      - generic [ref=e261]:
+        - img [ref=e263]
+        - heading "Meet the Team" [level=3] [ref=e267]
+        - paragraph [ref=e268]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e269] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e270]
+      - generic [ref=e272]:
+        - img [ref=e274]
+        - heading "Search Homes" [level=3] [ref=e277]
+        - paragraph [ref=e278]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e279] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e280]
+      - generic [ref=e282]:
+        - img [ref=e284]
+        - heading "Contact Us" [level=3] [ref=e286]
+        - paragraph [ref=e287]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e288] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e289]
+    - generic [ref=e292]:
+      - generic [ref=e293]:
+        - link "1ST Texas Realtors" [ref=e294] [cursor=pointer]:
+          - /url: /
+          - img [ref=e295]
+          - generic [ref=e297]:
+            - generic [ref=e298]:
+              - text: "1"
+              - superscript [ref=e299]: ST
+              - text: Texas
+            - generic [ref=e300]: Realtors
+        - navigation [ref=e301]:
+          - link "Home" [ref=e302] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e303] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e304] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e305] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e306] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e307] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e308] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e309] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e310]:
+          - link "Facebook" [ref=e311] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e312]
+          - link "Instagram" [ref=e314] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e315]
+          - link "Email" [ref=e319] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e320]
+      - generic [ref=e323]:
+        - link "TREC Information About Brokerage Services" [ref=e324] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e325] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e326] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e327] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e329]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e330]

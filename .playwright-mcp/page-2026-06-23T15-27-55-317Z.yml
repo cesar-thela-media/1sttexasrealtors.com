@@ -1,0 +1,265 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - img [ref=e38]
+        - img [ref=e40]
+        - img [ref=e42]
+        - img [ref=e44]
+        - img [ref=e46]
+      - paragraph [ref=e48]: “
+      - blockquote [ref=e49]: Mark and Sandra made our first home purchase feel effortless. They knew every neighborhood, every street, and exactly what to watch out for. We couldn't have done it without them.
+      - paragraph [ref=e50]: — Brian & Michelle R., Clear Lake, TX
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - paragraph [ref=e53]: "5.0"
+          - paragraph [ref=e54]: Average Rating
+        - generic [ref=e56]:
+          - paragraph [ref=e57]: 200+
+          - paragraph [ref=e58]: Client Reviews
+        - generic [ref=e60]:
+          - paragraph [ref=e61]: Top 3%
+          - paragraph [ref=e62]: Texas Realtors
+    - generic [ref=e64]:
+      - paragraph [ref=e65]: Rating Breakdown
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]: 5 star
+          - generic [ref=e71]: 97%
+        - generic [ref=e72]:
+          - generic [ref=e73]: 4 star
+          - generic [ref=e76]: 2%
+        - generic [ref=e77]:
+          - generic [ref=e78]: 3 star
+          - generic [ref=e81]: 1%
+    - generic [ref=e83]:
+      - paragraph [ref=e84]: All Reviews
+      - heading "What our clients say" [level=2] [ref=e85]
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - img [ref=e89]
+            - img [ref=e91]
+            - img [ref=e93]
+            - img [ref=e95]
+            - img [ref=e97]
+          - blockquote [ref=e99]: “I've used a lot of Realtors over the years. These two are the real deal. Honest, hardworking, and they actually pick up the phone. Sold my house in 9 days.”
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - paragraph [ref=e102]: Patricia K.
+              - paragraph [ref=e103]: Seabrook
+            - paragraph [ref=e104]: Jan 2024
+        - generic [ref=e105]:
+          - generic [ref=e106]:
+            - img [ref=e107]
+            - img [ref=e109]
+            - img [ref=e111]
+            - img [ref=e113]
+            - img [ref=e115]
+          - blockquote [ref=e117]: “We relocated from out of state and had no idea where to start. Mark walked us through every community with the patience of someone who truly loves where he lives.”
+          - generic [ref=e118]:
+            - generic [ref=e119]:
+              - paragraph [ref=e120]: David & Lisa T.
+              - paragraph [ref=e121]: Nassau Bay
+            - paragraph [ref=e122]: Nov 2023
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - img [ref=e125]
+            - img [ref=e127]
+            - img [ref=e129]
+            - img [ref=e131]
+            - img [ref=e133]
+          - blockquote [ref=e135]: “Sandra helped me sell my parents' home after my father passed. She handled everything with such care and professionalism during a really hard time. I'll never forget that.”
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - paragraph [ref=e138]: James H.
+              - paragraph [ref=e139]: El Lago
+            - paragraph [ref=e140]: Oct 2023
+        - generic [ref=e141]:
+          - generic [ref=e142]:
+            - img [ref=e143]
+            - img [ref=e145]
+            - img [ref=e147]
+            - img [ref=e149]
+            - img [ref=e151]
+          - blockquote [ref=e153]: “Third time we've used 1st Texas. There's a reason we keep coming back — they're just the best in the area. Period.”
+          - generic [ref=e154]:
+            - generic [ref=e155]:
+              - paragraph [ref=e156]: Carla & Mike O.
+              - paragraph [ref=e157]: Taylor Lake Village
+            - paragraph [ref=e158]: Aug 2023
+        - generic [ref=e159]:
+          - generic [ref=e160]:
+            - img [ref=e161]
+            - img [ref=e163]
+            - img [ref=e165]
+            - img [ref=e167]
+            - img [ref=e169]
+          - blockquote [ref=e171]: “Listed with another agent first — big mistake. Switched to Mark and Sandra and it was a completely different experience. Under contract in two weeks at full ask.”
+          - generic [ref=e172]:
+            - generic [ref=e173]:
+              - paragraph [ref=e174]: Tony F.
+              - paragraph [ref=e175]: Kemah
+            - paragraph [ref=e176]: Jun 2023
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - img [ref=e179]
+            - img [ref=e181]
+            - img [ref=e183]
+            - img [ref=e185]
+            - img [ref=e187]
+          - blockquote [ref=e189]: “As first-time buyers we had a million questions. They answered every single one with patience and zero judgment. They made us feel like we were their only clients.”
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - paragraph [ref=e192]: Jennifer & Paul A.
+              - paragraph [ref=e193]: Webster
+            - paragraph [ref=e194]: May 2023
+        - generic [ref=e195]:
+          - generic [ref=e196]:
+            - img [ref=e197]
+            - img [ref=e199]
+            - img [ref=e201]
+            - img [ref=e203]
+            - img [ref=e205]
+          - blockquote [ref=e207]: “I've referred four people to them. That says everything. Genuinely trustworthy people who know the Clear Lake market inside and out.”
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - paragraph [ref=e210]: Robert N.
+              - paragraph [ref=e211]: League City
+            - paragraph [ref=e212]: Apr 2023
+        - generic [ref=e213]:
+          - generic [ref=e214]:
+            - img [ref=e215]
+            - img [ref=e217]
+            - img [ref=e219]
+            - img [ref=e221]
+            - img [ref=e223]
+          - blockquote [ref=e225]: “Sandra staged my house beautifully and their marketing photos were stunning. We had multiple offers the first weekend. Couldn't be happier.”
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - paragraph [ref=e228]: Shannon M.
+              - paragraph [ref=e229]: Friendswood
+            - paragraph [ref=e230]: Feb 2023
+    - generic [ref=e232]:
+      - generic [ref=e233]:
+        - heading "Did we help you find your home?" [level=3] [ref=e234]
+        - paragraph [ref=e235]: Your story helps future clients know what to expect. Share your experience.
+      - link "Share Your Story" [ref=e236] [cursor=pointer]:
+        - /url: /contact
+        - text: Share Your Story
+        - img [ref=e237]
+    - generic [ref=e240]:
+      - generic [ref=e241]:
+        - img [ref=e243]
+        - heading "Meet the Team" [level=3] [ref=e247]
+        - paragraph [ref=e248]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e249] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e250]
+      - generic [ref=e252]:
+        - img [ref=e254]
+        - heading "Search Homes" [level=3] [ref=e257]
+        - paragraph [ref=e258]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e259] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e260]
+      - generic [ref=e262]:
+        - img [ref=e264]
+        - heading "Contact Us" [level=3] [ref=e266]
+        - paragraph [ref=e267]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e268] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e269]
+    - generic [ref=e272]:
+      - generic [ref=e273]:
+        - link "1ST Texas Realtors" [ref=e274] [cursor=pointer]:
+          - /url: /
+          - img [ref=e275]
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - text: "1"
+              - superscript [ref=e279]: ST
+              - text: Texas
+            - generic [ref=e280]: Realtors
+        - navigation [ref=e281]:
+          - link "Home" [ref=e282] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e283] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e284] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e285] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e286] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e287] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e288] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e289] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e290]:
+          - link "Facebook" [ref=e291] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e292]
+          - link "Instagram" [ref=e294] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e295]
+          - link "Email" [ref=e299] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e300]
+      - generic [ref=e303]:
+        - link "TREC Information About Brokerage Services" [ref=e304] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e305] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e306] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e307] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e309]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e310]

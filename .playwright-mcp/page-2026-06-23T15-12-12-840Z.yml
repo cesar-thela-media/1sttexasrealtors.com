@@ -1,0 +1,195 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e35]:
+      - img "Commercial building" [ref=e37]
+      - generic [ref=e38]:
+        - paragraph [ref=e39]: Commercial Real Estate
+        - heading "Southeast Houston's commercial market is moving fast." [level=1] [ref=e40]:
+          - text: Southeast Houston's
+          - text: commercial market
+          - text: is moving fast.
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - paragraph [ref=e43]: $14B+
+            - paragraph [ref=e44]: SE Houston commercial market
+          - generic [ref=e45]:
+            - paragraph [ref=e46]: 20+
+            - paragraph [ref=e47]: Years of commercial transactions
+          - generic [ref=e48]:
+            - paragraph [ref=e49]: Top 3%
+            - paragraph [ref=e50]: Texas Realtors since 2010
+        - link "Discuss Your Property Needs" [ref=e52] [cursor=pointer]:
+          - /url: /contact
+          - text: Discuss Your Property Needs
+          - img [ref=e53]
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - paragraph [ref=e58]: What We Handle
+        - heading "Property types we specialize in" [level=2] [ref=e59]
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - generic [ref=e62]: 🏪
+          - heading "Retail & Restaurant" [level=3] [ref=e64]
+          - paragraph [ref=e65]: Strip centers, end caps, standalone retail along I-45, Bay Area Blvd, and FM 518 corridors.
+        - generic [ref=e66]:
+          - generic [ref=e67]: 🏢
+          - heading "Office Buildings" [level=3] [ref=e69]
+          - paragraph [ref=e70]: Class A and B office space near JSC, the medical district, and the Nasa Road 1 corridor.
+        - generic [ref=e71]:
+          - generic [ref=e72]: 🏭
+          - heading "Industrial & Warehouse" [level=3] [ref=e74]
+          - paragraph [ref=e75]: Flex space, distribution, and light industrial near major freight corridors in the southeast market.
+        - generic [ref=e76]:
+          - generic [ref=e77]: 🌐
+          - heading "Mixed-Use & Land" [level=3] [ref=e79]
+          - paragraph [ref=e80]: Development-ready parcels and mixed-use properties across the Clear Lake / League City growth corridor.
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - paragraph [ref=e84]: Our Approach
+        - heading "Why clients trust us with commercial deals" [level=2] [ref=e85]
+      - generic [ref=e86]:
+        - generic [ref=e87]:
+          - img "Local Market Intelligence" [ref=e89]
+          - generic [ref=e90]:
+            - text: "01"
+            - heading "Local Market Intelligence" [level=3] [ref=e91]
+            - paragraph [ref=e92]: We know which corridors are growing, which landlords are flexible on terms, and which properties have hidden issues before they show up in due diligence. Twenty years of transactions in this market.
+        - generic [ref=e93]:
+          - img "Investment Property Analysis" [ref=e95]
+          - generic [ref=e96]:
+            - text: "02"
+            - heading "Investment Property Analysis" [level=3] [ref=e97]
+            - paragraph [ref=e98]: We run the numbers with you — cap rates, cash-on-cash return, vacancy assumptions, and exit strategies. We don't just help you find the property; we help you evaluate whether it makes sense.
+        - generic [ref=e99]:
+          - img "Lease & Purchase Negotiation" [ref=e101]
+          - generic [ref=e102]:
+            - text: "03"
+            - heading "Lease & Purchase Negotiation" [level=3] [ref=e103]
+            - paragraph [ref=e104]: Whether you're buying, selling, or leasing commercial space, lease terms and purchase contracts in commercial real estate are far more complex than residential. We negotiate both.
+    - generic [ref=e106]:
+      - paragraph [ref=e107]: Key Growth Corridors
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - heading "I-45 Corridor" [level=3] [ref=e110]
+          - paragraph [ref=e111]: From Webster to Texas City — the spine of southeast Houston commercial development.
+        - generic [ref=e112]:
+          - heading "Bay Area Blvd" [level=3] [ref=e113]
+          - paragraph [ref=e114]: Dense retail and office development serving the NASA and Clear Lake City employment base.
+        - generic [ref=e115]:
+          - heading "FM 518 / League City" [level=3] [ref=e116]
+          - paragraph [ref=e117]: Fastest-growing commercial corridor in the region — new construction, land opportunities.
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - img [ref=e122]
+        - heading "Meet the Team" [level=3] [ref=e126]
+        - paragraph [ref=e127]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e128] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e129]
+      - generic [ref=e131]:
+        - img [ref=e133]
+        - heading "Search Homes" [level=3] [ref=e136]
+        - paragraph [ref=e137]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e138] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e139]
+      - generic [ref=e141]:
+        - img [ref=e143]
+        - heading "Contact Us" [level=3] [ref=e145]
+        - paragraph [ref=e146]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e147] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e148]
+    - generic [ref=e151]:
+      - generic [ref=e152]:
+        - link "1ST Texas Realtors" [ref=e153] [cursor=pointer]:
+          - /url: /
+          - img [ref=e154]
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - text: "1"
+              - superscript [ref=e158]: ST
+              - text: Texas
+            - generic [ref=e159]: Realtors
+        - navigation [ref=e160]:
+          - link "Home" [ref=e161] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e162] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e163] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e164] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e165] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e166] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e167] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e168] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e169]:
+          - link "Facebook" [ref=e170] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e171]
+          - link "Instagram" [ref=e173] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e174]
+          - link "Email" [ref=e178] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e179]
+      - generic [ref=e182]:
+        - link "TREC Information About Brokerage Services" [ref=e183] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e184] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e185] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e186] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e188]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e189]

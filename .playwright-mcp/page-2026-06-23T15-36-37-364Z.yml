@@ -1,0 +1,482 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e35]:
+      - generic:
+        - generic: Clear Lake City
+        - generic: Seabrook
+        - generic: Kemah
+        - generic: El Lago
+        - generic: Nassau Bay
+        - generic: Taylor Lake Village
+        - generic: Webster
+        - generic: League City
+        - generic: Friendswood
+        - generic: Pearland
+        - generic: Galveston
+        - generic: Dickinson
+        - generic: Clear Lake City
+        - generic: Seabrook
+        - generic: Kemah
+        - generic: El Lago
+        - generic: Nassau Bay
+        - generic: Taylor Lake Village
+        - generic: Webster
+        - generic: League City
+        - generic: Friendswood
+        - generic: Pearland
+        - generic: Galveston
+        - generic: Dickinson
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - paragraph [ref=e38]: Southeast Houston
+          - heading "12 communities. One trusted team." [level=1] [ref=e39]:
+            - text: 12 communities.
+            - text: One trusted team.
+        - generic [ref=e40]:
+          - paragraph [ref=e41]: We don't just sell homes here — we live here, coach here, and shop here. Each community has its own character. We'll help you find the one that fits your life.
+          - generic [ref=e42]:
+            - generic [ref=e43]:
+              - paragraph [ref=e44]: "12"
+              - paragraph [ref=e45]: Communities
+            - generic [ref=e46]:
+              - paragraph [ref=e47]: 20+
+              - paragraph [ref=e48]: Years local
+            - generic [ref=e49]:
+              - paragraph [ref=e50]: 400+
+              - paragraph [ref=e51]: Homes sold
+    - generic [ref=e53]:
+      - paragraph [ref=e54]: Quick Comparison
+      - table [ref=e55]:
+        - rowgroup [ref=e56]:
+          - row "Community Price Range Schools Vibe" [ref=e57]:
+            - columnheader "Community" [ref=e58]
+            - columnheader "Price Range" [ref=e59]
+            - columnheader "Schools" [ref=e60]
+            - columnheader "Vibe" [ref=e61]
+        - rowgroup [ref=e62]:
+          - row "Clear Lake City Most Popular $280K–$650K CCISD Established · NASA proximity · Top schools" [ref=e63]:
+            - cell "Clear Lake City Most Popular" [ref=e64]:
+              - link "Clear Lake City Most Popular" [ref=e65] [cursor=pointer]:
+                - /url: /realtors-in/clear-lake-city
+                - generic [ref=e66]: Clear Lake City
+                - generic [ref=e67]: Most Popular
+            - cell "$280K–$650K" [ref=e68]
+            - cell "CCISD" [ref=e69]
+            - cell "Established · NASA proximity · Top schools" [ref=e70]
+          - row "Seabrook Waterfront $250K–$1.2M CCISD Waterfront dining · Small town feel" [ref=e71]:
+            - cell "Seabrook Waterfront" [ref=e72]:
+              - link "Seabrook Waterfront" [ref=e73] [cursor=pointer]:
+                - /url: /realtors-in/seabrook
+                - generic [ref=e74]: Seabrook
+                - generic [ref=e75]: Waterfront
+            - cell "$250K–$1.2M" [ref=e76]
+            - cell "CCISD" [ref=e77]
+            - cell "Waterfront dining · Small town feel" [ref=e78]
+          - row "Kemah Bay Views $200K–$1.5M CCISD Boardwalk · Boating · Investment potential" [ref=e79]:
+            - cell "Kemah Bay Views" [ref=e80]:
+              - link "Kemah Bay Views" [ref=e81] [cursor=pointer]:
+                - /url: /realtors-in/kemah
+                - generic [ref=e82]: Kemah
+                - generic [ref=e83]: Bay Views
+            - cell "$200K–$1.5M" [ref=e84]
+            - cell "CCISD" [ref=e85]
+            - cell "Boardwalk · Boating · Investment potential" [ref=e86]
+          - row "El Lago Exclusive $300K–$600K CCISD Quiet streets · NASA heritage · Low density" [ref=e87]:
+            - cell "El Lago Exclusive" [ref=e88]:
+              - link "El Lago Exclusive" [ref=e89] [cursor=pointer]:
+                - /url: /realtors-in/el-lago
+                - generic [ref=e90]: El Lago
+                - generic [ref=e91]: Exclusive
+            - cell "$300K–$600K" [ref=e92]
+            - cell "CCISD" [ref=e93]
+            - cell "Quiet streets · NASA heritage · Low density" [ref=e94]
+          - row "Nassau Bay Iconic $280K–$700K CCISD Astronaut neighborhood · Waterfront access" [ref=e95]:
+            - cell "Nassau Bay Iconic" [ref=e96]:
+              - link "Nassau Bay Iconic" [ref=e97] [cursor=pointer]:
+                - /url: /realtors-in/nassau-bay
+                - generic [ref=e98]: Nassau Bay
+                - generic [ref=e99]: Iconic
+            - cell "$280K–$700K" [ref=e100]
+            - cell "CCISD" [ref=e101]
+            - cell "Astronaut neighborhood · Waterfront access" [ref=e102]
+          - row "Taylor Lake Village Best Value $250K–$500K CCISD Lake access · Friendly · Underrated" [ref=e103]:
+            - cell "Taylor Lake Village Best Value" [ref=e104]:
+              - link "Taylor Lake Village Best Value" [ref=e105] [cursor=pointer]:
+                - /url: /realtors-in/taylor-lake-village
+                - generic [ref=e106]: Taylor Lake Village
+                - generic [ref=e107]: Best Value
+            - cell "$250K–$500K" [ref=e108]
+            - cell "CCISD" [ref=e109]
+            - cell "Lake access · Friendly · Underrated" [ref=e110]
+          - row "Webster Commuter Friendly $200K–$450K CCISD I-45 access · Affordable · Central location" [ref=e111]:
+            - cell "Webster Commuter Friendly" [ref=e112]:
+              - link "Webster Commuter Friendly" [ref=e113] [cursor=pointer]:
+                - /url: /realtors-in/webster
+                - generic [ref=e114]: Webster
+                - generic [ref=e115]: Commuter Friendly
+            - cell "$200K–$450K" [ref=e116]
+            - cell "CCISD" [ref=e117]
+            - cell "I-45 access · Affordable · Central location" [ref=e118]
+          - row "League City Fastest Growing $280K–$800K CCISD/LCISD Master-planned · New construction · Top schools" [ref=e119]:
+            - cell "League City Fastest Growing" [ref=e120]:
+              - link "League City Fastest Growing" [ref=e121] [cursor=pointer]:
+                - /url: /realtors-in/league-city
+                - generic [ref=e122]: League City
+                - generic [ref=e123]: Fastest Growing
+            - cell "$280K–$800K" [ref=e124]
+            - cell "CCISD/LCISD" [ref=e125]
+            - cell "Master-planned · New construction · Top schools" [ref=e126]
+          - row "Friendswood Family Favorite $300K–$750K FISD Historic roots · Top schools · Safe & quiet" [ref=e127]:
+            - cell "Friendswood Family Favorite" [ref=e128]:
+              - link "Friendswood Family Favorite" [ref=e129] [cursor=pointer]:
+                - /url: /realtors-in/friendswood
+                - generic [ref=e130]: Friendswood
+                - generic [ref=e131]: Family Favorite
+            - cell "$300K–$750K" [ref=e132]
+            - cell "FISD" [ref=e133]
+            - cell "Historic roots · Top schools · Safe & quiet" [ref=e134]
+          - row "Pearland Suburban Hub $260K–$650K PISD Master-planned · Great retail · 288 corridor" [ref=e135]:
+            - cell "Pearland Suburban Hub" [ref=e136]:
+              - link "Pearland Suburban Hub" [ref=e137] [cursor=pointer]:
+                - /url: /realtors-in/pearland
+                - generic [ref=e138]: Pearland
+                - generic [ref=e139]: Suburban Hub
+            - cell "$260K–$650K" [ref=e140]
+            - cell "PISD" [ref=e141]
+            - cell "Master-planned · Great retail · 288 corridor" [ref=e142]
+          - row "Galveston Island Life $180K–$1M+ GISD Beach access · Historic homes · Vacation rentals" [ref=e143]:
+            - cell "Galveston Island Life" [ref=e144]:
+              - link "Galveston Island Life" [ref=e145] [cursor=pointer]:
+                - /url: /realtors-in/galveston
+                - generic [ref=e146]: Galveston
+                - generic [ref=e147]: Island Life
+            - cell "$180K–$1M+" [ref=e148]
+            - cell "GISD" [ref=e149]
+            - cell "Beach access · Historic homes · Vacation rentals" [ref=e150]
+          - row "Dickinson Affordable $180K–$380K DISD Great value · Bay proximity · Growing area" [ref=e151]:
+            - cell "Dickinson Affordable" [ref=e152]:
+              - link "Dickinson Affordable" [ref=e153] [cursor=pointer]:
+                - /url: /realtors-in/dickinson
+                - generic [ref=e154]: Dickinson
+                - generic [ref=e155]: Affordable
+            - cell "$180K–$380K" [ref=e156]
+            - cell "DISD" [ref=e157]
+            - cell "Great value · Bay proximity · Growing area" [ref=e158]
+    - generic [ref=e160]:
+      - paragraph [ref=e161]: Explore Each Area
+      - heading "Find your neighborhood." [level=2] [ref=e162]
+      - generic [ref=e163]:
+        - link "Clear Lake City Most Popular Price Range $280K–$650K Schools CCISD Established · NASA proximity · Top schools View Community" [ref=e164] [cursor=pointer]:
+          - /url: /realtors-in/clear-lake-city
+          - generic [ref=e165]:
+            - heading "Clear Lake City" [level=3] [ref=e166]
+            - generic [ref=e167]: Most Popular
+          - generic [ref=e169]:
+            - generic [ref=e170]:
+              - paragraph [ref=e171]: Price Range
+              - paragraph [ref=e172]: $280K–$650K
+            - generic [ref=e173]:
+              - paragraph [ref=e174]: Schools
+              - paragraph [ref=e175]: CCISD
+          - paragraph [ref=e176]: Established · NASA proximity · Top schools
+          - generic [ref=e177]:
+            - text: View Community
+            - img [ref=e178]
+        - link "Seabrook Waterfront Price Range $250K–$1.2M Schools CCISD Waterfront dining · Small town feel View Community" [ref=e180] [cursor=pointer]:
+          - /url: /realtors-in/seabrook
+          - generic [ref=e181]:
+            - heading "Seabrook" [level=3] [ref=e182]
+            - generic [ref=e183]: Waterfront
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - paragraph [ref=e187]: Price Range
+              - paragraph [ref=e188]: $250K–$1.2M
+            - generic [ref=e189]:
+              - paragraph [ref=e190]: Schools
+              - paragraph [ref=e191]: CCISD
+          - paragraph [ref=e192]: Waterfront dining · Small town feel
+          - generic [ref=e193]:
+            - text: View Community
+            - img [ref=e194]
+        - link "Kemah Bay Views Price Range $200K–$1.5M Schools CCISD Boardwalk · Boating · Investment potential View Community" [ref=e196] [cursor=pointer]:
+          - /url: /realtors-in/kemah
+          - generic [ref=e197]:
+            - heading "Kemah" [level=3] [ref=e198]
+            - generic [ref=e199]: Bay Views
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - paragraph [ref=e203]: Price Range
+              - paragraph [ref=e204]: $200K–$1.5M
+            - generic [ref=e205]:
+              - paragraph [ref=e206]: Schools
+              - paragraph [ref=e207]: CCISD
+          - paragraph [ref=e208]: Boardwalk · Boating · Investment potential
+          - generic [ref=e209]:
+            - text: View Community
+            - img [ref=e210]
+        - link "El Lago Exclusive Price Range $300K–$600K Schools CCISD Quiet streets · NASA heritage · Low density View Community" [ref=e212] [cursor=pointer]:
+          - /url: /realtors-in/el-lago
+          - generic [ref=e213]:
+            - heading "El Lago" [level=3] [ref=e214]
+            - generic [ref=e215]: Exclusive
+          - generic [ref=e217]:
+            - generic [ref=e218]:
+              - paragraph [ref=e219]: Price Range
+              - paragraph [ref=e220]: $300K–$600K
+            - generic [ref=e221]:
+              - paragraph [ref=e222]: Schools
+              - paragraph [ref=e223]: CCISD
+          - paragraph [ref=e224]: Quiet streets · NASA heritage · Low density
+          - generic [ref=e225]:
+            - text: View Community
+            - img [ref=e226]
+        - link "Nassau Bay Iconic Price Range $280K–$700K Schools CCISD Astronaut neighborhood · Waterfront access View Community" [ref=e228] [cursor=pointer]:
+          - /url: /realtors-in/nassau-bay
+          - generic [ref=e229]:
+            - heading "Nassau Bay" [level=3] [ref=e230]
+            - generic [ref=e231]: Iconic
+          - generic [ref=e233]:
+            - generic [ref=e234]:
+              - paragraph [ref=e235]: Price Range
+              - paragraph [ref=e236]: $280K–$700K
+            - generic [ref=e237]:
+              - paragraph [ref=e238]: Schools
+              - paragraph [ref=e239]: CCISD
+          - paragraph [ref=e240]: Astronaut neighborhood · Waterfront access
+          - generic [ref=e241]:
+            - text: View Community
+            - img [ref=e242]
+        - link "Taylor Lake Village Best Value Price Range $250K–$500K Schools CCISD Lake access · Friendly · Underrated View Community" [ref=e244] [cursor=pointer]:
+          - /url: /realtors-in/taylor-lake-village
+          - generic [ref=e245]:
+            - heading "Taylor Lake Village" [level=3] [ref=e246]
+            - generic [ref=e247]: Best Value
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - paragraph [ref=e251]: Price Range
+              - paragraph [ref=e252]: $250K–$500K
+            - generic [ref=e253]:
+              - paragraph [ref=e254]: Schools
+              - paragraph [ref=e255]: CCISD
+          - paragraph [ref=e256]: Lake access · Friendly · Underrated
+          - generic [ref=e257]:
+            - text: View Community
+            - img [ref=e258]
+        - link "Webster Commuter Friendly Price Range $200K–$450K Schools CCISD I-45 access · Affordable · Central location View Community" [ref=e260] [cursor=pointer]:
+          - /url: /realtors-in/webster
+          - generic [ref=e261]:
+            - heading "Webster" [level=3] [ref=e262]
+            - generic [ref=e263]: Commuter Friendly
+          - generic [ref=e265]:
+            - generic [ref=e266]:
+              - paragraph [ref=e267]: Price Range
+              - paragraph [ref=e268]: $200K–$450K
+            - generic [ref=e269]:
+              - paragraph [ref=e270]: Schools
+              - paragraph [ref=e271]: CCISD
+          - paragraph [ref=e272]: I-45 access · Affordable · Central location
+          - generic [ref=e273]:
+            - text: View Community
+            - img [ref=e274]
+        - link "League City Fastest Growing Price Range $280K–$800K Schools CCISD/LCISD Master-planned · New construction · Top schools View Community" [ref=e276] [cursor=pointer]:
+          - /url: /realtors-in/league-city
+          - generic [ref=e277]:
+            - heading "League City" [level=3] [ref=e278]
+            - generic [ref=e279]: Fastest Growing
+          - generic [ref=e281]:
+            - generic [ref=e282]:
+              - paragraph [ref=e283]: Price Range
+              - paragraph [ref=e284]: $280K–$800K
+            - generic [ref=e285]:
+              - paragraph [ref=e286]: Schools
+              - paragraph [ref=e287]: CCISD/LCISD
+          - paragraph [ref=e288]: Master-planned · New construction · Top schools
+          - generic [ref=e289]:
+            - text: View Community
+            - img [ref=e290]
+        - link "Friendswood Family Favorite Price Range $300K–$750K Schools FISD Historic roots · Top schools · Safe & quiet View Community" [ref=e292] [cursor=pointer]:
+          - /url: /realtors-in/friendswood
+          - generic [ref=e293]:
+            - heading "Friendswood" [level=3] [ref=e294]
+            - generic [ref=e295]: Family Favorite
+          - generic [ref=e297]:
+            - generic [ref=e298]:
+              - paragraph [ref=e299]: Price Range
+              - paragraph [ref=e300]: $300K–$750K
+            - generic [ref=e301]:
+              - paragraph [ref=e302]: Schools
+              - paragraph [ref=e303]: FISD
+          - paragraph [ref=e304]: Historic roots · Top schools · Safe & quiet
+          - generic [ref=e305]:
+            - text: View Community
+            - img [ref=e306]
+        - link "Pearland Suburban Hub Price Range $260K–$650K Schools PISD Master-planned · Great retail · 288 corridor View Community" [ref=e308] [cursor=pointer]:
+          - /url: /realtors-in/pearland
+          - generic [ref=e309]:
+            - heading "Pearland" [level=3] [ref=e310]
+            - generic [ref=e311]: Suburban Hub
+          - generic [ref=e313]:
+            - generic [ref=e314]:
+              - paragraph [ref=e315]: Price Range
+              - paragraph [ref=e316]: $260K–$650K
+            - generic [ref=e317]:
+              - paragraph [ref=e318]: Schools
+              - paragraph [ref=e319]: PISD
+          - paragraph [ref=e320]: Master-planned · Great retail · 288 corridor
+          - generic [ref=e321]:
+            - text: View Community
+            - img [ref=e322]
+        - link "Galveston Island Life Price Range $180K–$1M+ Schools GISD Beach access · Historic homes · Vacation rentals View Community" [ref=e324] [cursor=pointer]:
+          - /url: /realtors-in/galveston
+          - generic [ref=e325]:
+            - heading "Galveston" [level=3] [ref=e326]
+            - generic [ref=e327]: Island Life
+          - generic [ref=e329]:
+            - generic [ref=e330]:
+              - paragraph [ref=e331]: Price Range
+              - paragraph [ref=e332]: $180K–$1M+
+            - generic [ref=e333]:
+              - paragraph [ref=e334]: Schools
+              - paragraph [ref=e335]: GISD
+          - paragraph [ref=e336]: Beach access · Historic homes · Vacation rentals
+          - generic [ref=e337]:
+            - text: View Community
+            - img [ref=e338]
+        - link "Dickinson Affordable Price Range $180K–$380K Schools DISD Great value · Bay proximity · Growing area View Community" [ref=e340] [cursor=pointer]:
+          - /url: /realtors-in/dickinson
+          - generic [ref=e341]:
+            - heading "Dickinson" [level=3] [ref=e342]
+            - generic [ref=e343]: Affordable
+          - generic [ref=e345]:
+            - generic [ref=e346]:
+              - paragraph [ref=e347]: Price Range
+              - paragraph [ref=e348]: $180K–$380K
+            - generic [ref=e349]:
+              - paragraph [ref=e350]: Schools
+              - paragraph [ref=e351]: DISD
+          - paragraph [ref=e352]: Great value · Bay proximity · Growing area
+          - generic [ref=e353]:
+            - text: View Community
+            - img [ref=e354]
+    - generic [ref=e357]:
+      - heading "Not sure which area is right for you?" [level=2] [ref=e358]
+      - paragraph [ref=e359]: Tell us what matters most — schools, commute, price range, waterfront access — and we'll point you in the right direction.
+      - link "Talk to a Local Realtor" [ref=e360] [cursor=pointer]:
+        - /url: /contact
+        - text: Talk to a Local Realtor
+        - img [ref=e361]
+    - generic [ref=e364]:
+      - generic [ref=e365]:
+        - img [ref=e367]
+        - heading "Meet the Team" [level=3] [ref=e371]
+        - paragraph [ref=e372]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e373] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e374]
+      - generic [ref=e376]:
+        - img [ref=e378]
+        - heading "Search Homes" [level=3] [ref=e381]
+        - paragraph [ref=e382]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e383] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e384]
+      - generic [ref=e386]:
+        - img [ref=e388]
+        - heading "Contact Us" [level=3] [ref=e390]
+        - paragraph [ref=e391]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e392] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e393]
+    - generic [ref=e396]:
+      - generic [ref=e397]:
+        - link "1ST Texas Realtors" [ref=e398] [cursor=pointer]:
+          - /url: /
+          - img [ref=e399]
+          - generic [ref=e401]:
+            - generic [ref=e402]:
+              - text: "1"
+              - superscript [ref=e403]: ST
+              - text: Texas
+            - generic [ref=e404]: Realtors
+        - navigation [ref=e405]:
+          - link "Home" [ref=e406] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e407] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e408] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e409] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e410] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e411] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e412] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e413] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e414]:
+          - link "Facebook" [ref=e415] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e416]
+          - link "Instagram" [ref=e418] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e419]
+          - link "Email" [ref=e423] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e424]
+      - generic [ref=e427]:
+        - link "TREC Information About Brokerage Services" [ref=e428] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e429] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e430] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e431] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e433]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e434]

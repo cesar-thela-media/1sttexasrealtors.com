@@ -1,0 +1,248 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+        - link "Contact" [ref=e31] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact
+          - img [ref=e32]
+      - link "Contact a Realtor" [ref=e34] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e35]:
+      - img "Seabrook" [ref=e37]
+      - generic [ref=e39]:
+        - paragraph [ref=e40]: Homes for Rent → Seabrook
+        - heading "Renting in Seabrook" [level=1] [ref=e41]:
+          - text: Renting in
+          - text: Seabrook
+        - paragraph [ref=e42]: Seabrook rentals range from waterfront properties with bay views to cozy cottages in the historic downtown area. A perfect base for exploring the best of Clear Lake.
+        - link "See Current Rentals" [ref=e43] [cursor=pointer]:
+          - /url: /contact
+          - text: See Current Rentals
+          - img [ref=e44]
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - paragraph [ref=e49]: Typical Rent Range
+        - paragraph [ref=e50]: $1,400 – $3,500/mo
+      - generic [ref=e51]:
+        - paragraph [ref=e52]: Pet Policy
+        - paragraph [ref=e53]: Varies by property
+      - generic [ref=e54]:
+        - paragraph [ref=e55]: Lease Terms
+        - paragraph [ref=e56]: 6 or 12 months available
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - paragraph [ref=e60]: Sample Listings
+        - heading "Typical Rentals in Seabrook" [level=2] [ref=e61]
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - img "Rental home" [ref=e65]
+            - generic [ref=e66]: Available Now
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - paragraph [ref=e69]: Seabrook, TX
+              - generic [ref=e70]:
+                - generic [ref=e71]:
+                  - strong [ref=e72]: "3"
+                  - text: Bedrooms
+                - generic [ref=e73]: "|"
+                - generic [ref=e74]:
+                  - strong [ref=e75]: "2"
+                  - text: Baths
+                - generic [ref=e76]: "|"
+                - generic [ref=e77]:
+                  - strong [ref=e78]: 1,680
+                  - text: Sq Ft
+            - generic [ref=e79]:
+              - paragraph [ref=e80]: Starting at
+              - paragraph [ref=e81]: Call for Pricing
+              - link "Inquire →" [ref=e82] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - img "Rental home" [ref=e85]
+            - generic [ref=e86]: Available Soon
+          - generic [ref=e87]:
+            - generic [ref=e88]:
+              - paragraph [ref=e89]: Seabrook, TX
+              - generic [ref=e90]:
+                - generic [ref=e91]:
+                  - strong [ref=e92]: "4"
+                  - text: Bedrooms
+                - generic [ref=e93]: "|"
+                - generic [ref=e94]:
+                  - strong [ref=e95]: "2.5"
+                  - text: Baths
+                - generic [ref=e96]: "|"
+                - generic [ref=e97]:
+                  - strong [ref=e98]: 2,280
+                  - text: Sq Ft
+            - generic [ref=e99]:
+              - paragraph [ref=e100]: Starting at
+              - paragraph [ref=e101]: Call for Pricing
+              - link "Inquire →" [ref=e102] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - img "Rental home" [ref=e105]
+            - generic [ref=e106]: Available Now
+          - generic [ref=e107]:
+            - generic [ref=e108]:
+              - paragraph [ref=e109]: Seabrook, TX
+              - generic [ref=e110]:
+                - generic [ref=e111]:
+                  - strong [ref=e112]: "2"
+                  - text: Bedrooms
+                - generic [ref=e113]: "|"
+                - generic [ref=e114]:
+                  - strong [ref=e115]: "2"
+                  - text: Baths
+                - generic [ref=e116]: "|"
+                - generic [ref=e117]:
+                  - strong [ref=e118]: 1,200
+                  - text: Sq Ft
+            - generic [ref=e119]:
+              - paragraph [ref=e120]: Starting at
+              - paragraph [ref=e121]: Call for Pricing
+              - link "Inquire →" [ref=e122] [cursor=pointer]:
+                - /url: /contact
+      - paragraph [ref=e123]: Contact us for actual current availability and pricing in Seabrook.
+    - generic [ref=e126]:
+      - generic [ref=e127]:
+        - paragraph [ref=e128]: Tenant Representation
+        - heading "We represent tenants, not just landlords." [level=2] [ref=e129]:
+          - text: We represent tenants,
+          - text: not just landlords.
+        - paragraph [ref=e130]: Most people don't realize they can have a Realtor help them find a rental — and it costs nothing out of pocket. In most cases, the landlord covers our fee.
+        - paragraph [ref=e131]: We review the lease, negotiate terms, and make sure you know exactly what you're signing. Especially useful if you're relocating and can't visit in person.
+      - generic [ref=e132]:
+        - generic [ref=e135]:
+          - paragraph [ref=e136]: Lease review included
+          - paragraph [ref=e137]: We read every clause before you sign
+        - generic [ref=e140]:
+          - paragraph [ref=e141]: Off-market inventory
+          - paragraph [ref=e142]: Properties not listed publicly
+        - generic [ref=e145]:
+          - paragraph [ref=e146]: No cost to renters
+          - paragraph [ref=e147]: Landlord typically covers our fee
+        - generic [ref=e150]:
+          - paragraph [ref=e151]: Remote support available
+          - paragraph [ref=e152]: Perfect for relocation buyers
+    - generic [ref=e154]:
+      - heading "Ready to rent in Seabrook?" [level=2] [ref=e155]
+      - paragraph [ref=e156]: Tell us your timeline, budget, and must-haves — we'll match you with available rentals and handle the legwork.
+      - generic [ref=e157]:
+        - link "Contact Us" [ref=e158] [cursor=pointer]:
+          - /url: /contact
+          - text: Contact Us
+          - img [ref=e159]
+        - link "← All Rental Areas" [ref=e161] [cursor=pointer]:
+          - /url: /homes-for-rent
+    - generic [ref=e163]:
+      - generic [ref=e164]:
+        - img [ref=e166]
+        - heading "Meet the Team" [level=3] [ref=e170]
+        - paragraph [ref=e171]: Learn about Mark and Sandra — your neighbors and your Realtors.
+        - link "Our Agents" [ref=e172] [cursor=pointer]:
+          - /url: /agents
+          - text: Our Agents
+          - img [ref=e173]
+      - generic [ref=e175]:
+        - img [ref=e177]
+        - heading "Search Homes" [level=3] [ref=e180]
+        - paragraph [ref=e181]: Explore homes for sale in Clear Lake and nearby communities.
+        - link "Search Now" [ref=e182] [cursor=pointer]:
+          - /url: /clear-lake-tx-homes-for-sale
+          - text: Search Now
+          - img [ref=e183]
+      - generic [ref=e185]:
+        - img [ref=e187]
+        - heading "Contact Us" [level=3] [ref=e189]
+        - paragraph [ref=e190]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e191] [cursor=pointer]:
+          - /url: /contact
+          - text: Get In Touch
+          - img [ref=e192]
+    - generic [ref=e195]:
+      - generic [ref=e196]:
+        - link "1ST Texas Realtors" [ref=e197] [cursor=pointer]:
+          - /url: /
+          - img [ref=e198]
+          - generic [ref=e200]:
+            - generic [ref=e201]:
+              - text: "1"
+              - superscript [ref=e202]: ST
+              - text: Texas
+            - generic [ref=e203]: Realtors
+        - navigation [ref=e204]:
+          - link "Home" [ref=e205] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e206] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e207] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e208] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e209] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e210] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e211] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e212] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e213]:
+          - link "Facebook" [ref=e214] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e215]
+          - link "Instagram" [ref=e217] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e218]
+          - link "Email" [ref=e222] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e223]
+      - generic [ref=e226]:
+        - link "TREC Information About Brokerage Services" [ref=e227] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e228] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e229] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e230] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e232]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e233]

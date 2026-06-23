@@ -1,0 +1,241 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "1ST Texas Realtors" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img [ref=e6]
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - text: "1"
+            - superscript [ref=e10]: ST
+            - text: Texas
+          - generic [ref=e11]: Realtors
+      - navigation [ref=e12]:
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: /about
+          - text: About Us
+          - img [ref=e14]
+        - link "Buying" [ref=e16] [cursor=pointer]:
+          - /url: /home-buyers
+          - text: Buying
+          - img [ref=e17]
+        - link "Selling" [ref=e19] [cursor=pointer]:
+          - /url: /seller-services
+          - text: Selling
+          - img [ref=e20]
+        - link "Communities" [ref=e22] [cursor=pointer]:
+          - /url: /communities
+          - text: Communities
+          - img [ref=e23]
+        - link "Reviews" [ref=e25] [cursor=pointer]:
+          - /url: /realtor-reviews
+          - text: Reviews
+          - img [ref=e26]
+        - link "Resources" [ref=e28] [cursor=pointer]:
+          - /url: /resources
+          - text: Resources
+          - img [ref=e29]
+      - link "Contact a Realtor" [ref=e31] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e32]:
+      - img "Clear Lake waterfront aerial view" [ref=e33]
+      - generic [ref=e35]:
+        - paragraph [ref=e36]: Communities
+        - heading "Communities We Call Home" [level=1] [ref=e37]
+        - paragraph [ref=e38]: We don't just sell homes in these areas — we live here, coach here, and shop here. That's the difference.
+    - generic [ref=e40]:
+      - paragraph [ref=e41]: Southeast Houston
+      - heading "20 communities. One team that knows them all." [level=2] [ref=e42]:
+        - text: 20 communities. One team
+        - text: that knows them all.
+      - paragraph [ref=e43]: The communities around Clear Lake and Galveston Bay are each distinct — different vibes, different price points, different strengths. We'll help you find the one that fits your life, not just your budget.
+    - generic [ref=e45]:
+      - link "Houston's waterfront gem Clear Lake City Established neighborhoods, top-rated schools, and easy NASA/medical center access. One of our most popular areas. JSC proximity · Great schools · Mature trees See Listings" [ref=e46] [cursor=pointer]:
+        - /url: /realtors-in/clear-lake-city
+        - paragraph [ref=e48]: Houston's waterfront gem
+        - heading "Clear Lake City" [level=3] [ref=e49]
+        - paragraph [ref=e50]: Established neighborhoods, top-rated schools, and easy NASA/medical center access. One of our most popular areas.
+        - paragraph [ref=e51]: JSC proximity · Great schools · Mature trees
+        - generic [ref=e52]:
+          - text: See Listings
+          - img [ref=e53]
+      - link "Waterfront living at its best Seabrook Charming downtown, waterfront restaurants, and a tight-knit community feel. Homes range from cozy cottages to waterfront estates. Waterfront dining · Sailboat culture · Small town feel See Listings" [ref=e55] [cursor=pointer]:
+        - /url: /realtors-in/seabrook
+        - paragraph [ref=e57]: Waterfront living at its best
+        - heading "Seabrook" [level=3] [ref=e58]
+        - paragraph [ref=e59]: Charming downtown, waterfront restaurants, and a tight-knit community feel. Homes range from cozy cottages to waterfront estates.
+        - paragraph [ref=e60]: Waterfront dining · Sailboat culture · Small town feel
+        - generic [ref=e61]:
+          - text: See Listings
+          - img [ref=e62]
+      - link "Fun, fish, and forever views Kemah Famous for the Kemah Boardwalk and incredible bay views. A mix of vacation properties, investment homes, and full-time residents. Boardwalk · Bay views · Fishing & boating See Listings" [ref=e64] [cursor=pointer]:
+        - /url: /realtors-in/kemah
+        - paragraph [ref=e66]: Fun, fish, and forever views
+        - heading "Kemah" [level=3] [ref=e67]
+        - paragraph [ref=e68]: Famous for the Kemah Boardwalk and incredible bay views. A mix of vacation properties, investment homes, and full-time residents.
+        - paragraph [ref=e69]: Boardwalk · Bay views · Fishing & boating
+        - generic [ref=e70]:
+          - text: See Listings
+          - img [ref=e71]
+      - link "Quiet, exclusive, and underrated El Lago One of the smallest municipalities in Texas — and one of the most coveted. Quiet streets, NASA neighbors, and zero through traffic. Low density · NASA community · Peaceful streets See Listings" [ref=e73] [cursor=pointer]:
+        - /url: /realtors-in/el-lago
+        - paragraph [ref=e75]: Quiet, exclusive, and underrated
+        - heading "El Lago" [level=3] [ref=e76]
+        - paragraph [ref=e77]: One of the smallest municipalities in Texas — and one of the most coveted. Quiet streets, NASA neighbors, and zero through traffic.
+        - paragraph [ref=e78]: Low density · NASA community · Peaceful streets
+        - generic [ref=e79]:
+          - text: See Listings
+          - img [ref=e80]
+      - link "The astronaut neighborhood Nassau Bay Originally built for NASA families, Nassau Bay retains its unique character — waterfront access, mid-century charm, and incredible community spirit. NASA history · Waterfront · Strong HOA See Listings" [ref=e82] [cursor=pointer]:
+        - /url: /realtors-in/nassau-bay
+        - paragraph [ref=e84]: The astronaut neighborhood
+        - heading "Nassau Bay" [level=3] [ref=e85]
+        - paragraph [ref=e86]: Originally built for NASA families, Nassau Bay retains its unique character — waterfront access, mid-century charm, and incredible community spirit.
+        - paragraph [ref=e87]: NASA history · Waterfront · Strong HOA
+        - generic [ref=e88]:
+          - text: See Listings
+          - img [ref=e89]
+      - link "Lakefront without the price tag Taylor Lake Village A hidden gem with lake access and a real neighborhood feel. Excellent value compared to nearby Clear Lake City. Lake access · Good value · Friendly community See Listings" [ref=e91] [cursor=pointer]:
+        - /url: /realtors-in/taylor-lake-village
+        - paragraph [ref=e93]: Lakefront without the price tag
+        - heading "Taylor Lake Village" [level=3] [ref=e94]
+        - paragraph [ref=e95]: A hidden gem with lake access and a real neighborhood feel. Excellent value compared to nearby Clear Lake City.
+        - paragraph [ref=e96]: Lake access · Good value · Friendly community
+        - generic [ref=e97]:
+          - text: See Listings
+          - img [ref=e98]
+      - link "Convenience meets community Webster Centrally located with easy access to I-45, the medical center, and Clear Lake. Great for commuters who want space without the drive. Highway access · Affordable · Diverse options See Listings" [ref=e100] [cursor=pointer]:
+        - /url: /realtors-in/webster
+        - paragraph [ref=e102]: Convenience meets community
+        - heading "Webster" [level=3] [ref=e103]
+        - paragraph [ref=e104]: Centrally located with easy access to I-45, the medical center, and Clear Lake. Great for commuters who want space without the drive.
+        - paragraph [ref=e105]: Highway access · Affordable · Diverse options
+        - generic [ref=e106]:
+          - text: See Listings
+          - img [ref=e107]
+      - link "The fastest growing city in Texas League City Rapid growth means newer construction, great amenities, and rising values. Perfect for families looking for space and top-rated CCISD schools. New construction · CCISD schools · Growth area See Listings" [ref=e109] [cursor=pointer]:
+        - /url: /realtors-in/league-city
+        - paragraph [ref=e111]: The fastest growing city in Texas
+        - heading "League City" [level=3] [ref=e112]
+        - paragraph [ref=e113]: Rapid growth means newer construction, great amenities, and rising values. Perfect for families looking for space and top-rated CCISD schools.
+        - paragraph [ref=e114]: New construction · CCISD schools · Growth area
+        - generic [ref=e115]:
+          - text: See Listings
+          - img [ref=e116]
+      - link "Where roots run deep Friendswood A Quaker-founded city with one of the best school districts in the region. Tree-lined streets, strong community pride, and excellent home values. Top schools · Historic roots · Safe & quiet See Listings" [ref=e118] [cursor=pointer]:
+        - /url: /realtors-in/friendswood
+        - paragraph [ref=e120]: Where roots run deep
+        - heading "Friendswood" [level=3] [ref=e121]
+        - paragraph [ref=e122]: A Quaker-founded city with one of the best school districts in the region. Tree-lined streets, strong community pride, and excellent home values.
+        - paragraph [ref=e123]: Top schools · Historic roots · Safe & quiet
+        - generic [ref=e124]:
+          - text: See Listings
+          - img [ref=e125]
+      - link "Suburban at its finest Pearland Master-planned communities, great retail, and easy 288 access to the medical center. One of the top suburbs in Houston. Master-planned · Retail amenities · 288 corridor See Listings" [ref=e127] [cursor=pointer]:
+        - /url: /realtors-in/pearland
+        - paragraph [ref=e129]: Suburban at its finest
+        - heading "Pearland" [level=3] [ref=e130]
+        - paragraph [ref=e131]: Master-planned communities, great retail, and easy 288 access to the medical center. One of the top suburbs in Houston.
+        - paragraph [ref=e132]: Master-planned · Retail amenities · 288 corridor
+        - generic [ref=e133]:
+          - text: See Listings
+          - img [ref=e134]
+      - link "Island life awaits Galveston Beach homes, vacation rentals, and historic Victorians. Whether it's a primary residence or investment property, we know this island. Beach access · Historic homes · Vacation rental potential See Listings" [ref=e136] [cursor=pointer]:
+        - /url: /realtors-in/galveston
+        - paragraph [ref=e138]: Island life awaits
+        - heading "Galveston" [level=3] [ref=e139]
+        - paragraph [ref=e140]: Beach homes, vacation rentals, and historic Victorians. Whether it's a primary residence or investment property, we know this island.
+        - paragraph [ref=e141]: Beach access · Historic homes · Vacation rental potential
+        - generic [ref=e142]:
+          - text: See Listings
+          - img [ref=e143]
+      - link "Affordable & accessible Dickinson Great value, newer construction options, and close proximity to Galveston Bay. A solid choice for buyers stretching their dollar. Affordable · New builds available · Bay proximity See Listings" [ref=e145] [cursor=pointer]:
+        - /url: /realtors-in/dickinson
+        - paragraph [ref=e147]: Affordable & accessible
+        - heading "Dickinson" [level=3] [ref=e148]
+        - paragraph [ref=e149]: Great value, newer construction options, and close proximity to Galveston Bay. A solid choice for buyers stretching their dollar.
+        - paragraph [ref=e150]: Affordable · New builds available · Bay proximity
+        - generic [ref=e151]:
+          - text: See Listings
+          - img [ref=e152]
+    - generic [ref=e155]:
+      - heading "Not sure which area is right for you?" [level=2] [ref=e156]
+      - paragraph [ref=e157]: Tell us what matters most — schools, commute, price range, waterfront — and we'll point you in the right direction. No pressure, just honest guidance.
+      - link "Talk to a Local Realtor" [ref=e158] [cursor=pointer]:
+        - /url: /contact
+        - text: Talk to a Local Realtor
+        - img [ref=e159]
+    - generic [ref=e162]:
+      - generic [ref=e163]:
+        - img [ref=e165]
+        - heading "Register" [level=3] [ref=e169]
+        - paragraph [ref=e170]: Create an account to save favorites and set up alerts.
+        - link "Get Started" [ref=e171] [cursor=pointer]:
+          - /url: "#register"
+          - text: Get Started
+          - img [ref=e172]
+      - generic [ref=e174]:
+        - img [ref=e176]
+        - heading "Search Homes" [level=3] [ref=e179]
+        - paragraph [ref=e180]: Explore homes for sale in Clear Lake and nearby.
+        - link "Search Now" [ref=e181] [cursor=pointer]:
+          - /url: "#search"
+          - text: Search Now
+          - img [ref=e182]
+      - generic [ref=e184]:
+        - img [ref=e186]
+        - heading "Contact Us" [level=3] [ref=e188]
+        - paragraph [ref=e189]: We're just a call or message away. Let's talk!
+        - link "Get In Touch" [ref=e190] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Get In Touch
+          - img [ref=e191]
+    - generic [ref=e194]:
+      - generic [ref=e195]:
+        - link "1ST Texas Realtors" [ref=e196] [cursor=pointer]:
+          - /url: /
+          - img [ref=e197]
+          - generic [ref=e199]:
+            - generic [ref=e200]:
+              - text: "1"
+              - superscript [ref=e201]: ST
+              - text: Texas
+            - generic [ref=e202]: Realtors
+        - navigation [ref=e203]:
+          - link "Home" [ref=e204] [cursor=pointer]:
+            - /url: /
+          - link "About Us" [ref=e205] [cursor=pointer]:
+            - /url: /about
+          - link "Buying" [ref=e206] [cursor=pointer]:
+            - /url: /home-buyers
+          - link "Selling" [ref=e207] [cursor=pointer]:
+            - /url: /seller-services
+          - link "Communities" [ref=e208] [cursor=pointer]:
+            - /url: /communities
+          - link "Reviews" [ref=e209] [cursor=pointer]:
+            - /url: /realtor-reviews
+          - link "Resources" [ref=e210] [cursor=pointer]:
+            - /url: /resources
+          - link "Contact" [ref=e211] [cursor=pointer]:
+            - /url: /contact
+        - generic [ref=e212]:
+          - link "Facebook" [ref=e213] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e214]
+          - link "Instagram" [ref=e216] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e217]
+          - link "Email" [ref=e221] [cursor=pointer]:
+            - /url: mailto:info@1sttexasrealtors.com
+            - img [ref=e222]
+      - generic [ref=e225]:
+        - link "TREC Information About Brokerage Services" [ref=e226] [cursor=pointer]:
+          - /url: "#"
+        - link "TREC Consumer Protection Notice" [ref=e227] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=e228] [cursor=pointer]:
+          - /url: "#"
+        - link "Terms of Use" [ref=e229] [cursor=pointer]:
+          - /url: "#"
+      - paragraph [ref=e231]: "Communities We Serve: Clear Lake City • Seabrook • Kemah • El Lago • Nassau Bay • Taylor Lake Village • Webster • League City • Friendswood • Bacliff • Santa Fe • Dickinson • La Marque • Hitchcock • Shoreacres • Bayou Vista • San Leon • Texas City • Alvin • Manvel • Pearland"
+  - alert [ref=e232]

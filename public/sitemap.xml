@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core pages -->
+  <url><loc>https://www.1sttexasrealtors.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/about</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/agents</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/contact</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtor-reviews</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/resources</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/privacy-policy</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+  <!-- Buyer services -->
+  <url><loc>https://www.1sttexasrealtors.com/home-buyers</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/new-home-construction</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/relocation-service</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/clear-lake-tx-homes-for-sale</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <!-- Seller services -->
+  <url><loc>https://www.1sttexasrealtors.com/seller-services</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/home-staging</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <!-- Rentals -->
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/clear-lake-city</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/seabrook</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/kemah</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/el-lago</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/nassau-bay</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/taylor-lake-village</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/webster</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/league-city</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/friendswood</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/pearland</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/galveston</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/dickinson</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/baytown</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/clear-lake-shores</loc><priority>0.5</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/deer-park</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/la-porte</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/pasadena</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/san-leon</loc><priority>0.5</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/shoreacres</loc><priority>0.5</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/tiki-island</loc><priority>0.5</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/homes-for-rent/texas-city</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <!-- Commercial -->
+  <url><loc>https://www.1sttexasrealtors.com/commercial-property-realtors</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <!-- Communities hub -->
+  <url><loc>https://www.1sttexasrealtors.com/communities</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <!-- Realtors in [city] -->
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/clear-lake-city</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/seabrook</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/kemah</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/el-lago</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/nassau-bay</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/taylor-lake-village</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/webster</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/league-city</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/friendswood</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/pearland</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/galveston</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/dickinson</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/baytown</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/clear-lake-shores</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/deer-park</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/la-porte</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/pasadena</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/san-leon</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/shoreacres</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/tiki-island</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.1sttexasrealtors.com/realtors-in/texas-city</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+</urlset>
