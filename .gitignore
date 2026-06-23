@@ -20,3 +20,9 @@ yarn-error.log*
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Playwright MCP artifacts
+.playwright-mcp/
+
+# Screenshots taken during dev
+1sttexas-homepage.png
