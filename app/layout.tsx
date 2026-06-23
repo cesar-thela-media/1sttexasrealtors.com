@@ -5,6 +5,11 @@ export const metadata: Metadata = {
   title: '1st Texas Realtors | Family Owned Since 2004',
   description:
     'Your neighbors. Your Realtors. Proudly serving Clear Lake and the communities we call home.',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
 }
 
 export default function RootLayout({
